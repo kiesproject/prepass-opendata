@@ -32,4 +32,4 @@ after_success:
   - git checkout master
   - git add opendata.json last-update.json
   - git commit -m "Update `date +"%Y/%m/%d %H:%M:%S"` [skip ci]"
-  - git push git@github.com:ayatk/opendate-test.git master
+  - git push git@github.com:kiesproject/prepass-opendata.git master
