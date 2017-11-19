@@ -448,15 +448,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -500,11 +500,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -548,11 +548,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -596,11 +596,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -644,11 +644,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -692,11 +692,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -740,11 +740,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -788,11 +788,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -836,11 +836,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -1055,19 +1055,19 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "イタリアン・フレンチ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カレー"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カレー"
       }
     ],
     "is_baby_station": false,
@@ -2214,12 +2214,12 @@
     "pr_message": "石川県庁から最寄のauショップです。周辺はさまざまなお店も多いのでお寄りいただきやすいです。広々とした開放的な店内で、親切丁寧なスタッフが心を込めてお待ちいたしております。ご家族で鞍月、金沢駅西、示野方面へショッピングなどでお越しの際にはぜひご来店下さい。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "情報・通信"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "情報・通信"
       }
     ],
     "is_baby_station": false,
@@ -2791,11 +2791,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -2839,11 +2839,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -2887,11 +2887,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -2935,11 +2935,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -2983,11 +2983,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3031,11 +3031,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3079,11 +3079,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3127,11 +3127,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3175,11 +3175,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3223,11 +3223,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3271,11 +3271,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3319,11 +3319,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3367,11 +3367,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3415,11 +3415,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3463,11 +3463,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3511,11 +3511,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3559,11 +3559,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3607,11 +3607,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -3781,20 +3781,8 @@
     "pr_message": "*石川県初☆保育士駐在エステサロン*\n?保育士駐在エステサロン☆\n4人の子育て経験&ベテラン保育士によるお子様見守りサービス?\n※小学校低学年までのお子様が対象\n?ママメニューが充実☆\n現役ママから生まれたメニューです?\n?ママサークル☆\n子育ての悩みや、嬉しいことを皆で共有しましょう?",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
-      },
-      {
         "big_genre": "遊ぶ",
         "genre": "アミューズメント"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "食品"
       },
       {
         "big_genre": "暮らす",
@@ -3803,6 +3791,18 @@
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -3978,11 +3978,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -4849,12 +4849,12 @@
     "pr_message": "クレープの移動販売車です。ボリュームたっぷりだけどアイスのコーンに入ってるので食べやすいクレープです!",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -4980,24 +4980,24 @@
     "pr_message": "お庭の工事・メンテナンス〜ガーデニングSHOPを営んでおります。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
-      },
-      {
-        "big_genre": "育てる",
-        "genre": "習い事"
       },
       {
         "big_genre": "遊ぶ",
         "genre": "公園"
       },
       {
+        "big_genre": "育てる",
+        "genre": "習い事"
+      },
+      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -5040,16 +5040,16 @@
     "pr_message": "お庭の工事・メンテナンス〜ガーデニングSHOPを営んでおります。",
     "genres": [
       {
+        "big_genre": "育てる",
+        "genre": "習い事"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "遊ぶ",
         "genre": "公園"
-      },
-      {
-        "big_genre": "育てる",
-        "genre": "習い事"
       }
     ],
     "is_baby_station": false,
@@ -5181,15 +5181,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -5233,11 +5233,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -6209,11 +6209,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -6257,11 +6257,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -7100,11 +7100,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "交通・燃料"
       },
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "保険"
       },
       {
         "big_genre": "買う",
@@ -7322,12 +7322,12 @@
     "pr_message": "ビーガンカフェ。オーガニックサラダランチ、グルテンフリーメニューあり。\n小麦粉、白砂糖、動物性食品不使用の米粉マフィンも毎日数種類焼立にてご用意。\nアレルギー対応の「ルミエール」デコレーションケーキもご予約受付中??\nぜひ、お電話にてご予約を!",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -7664,11 +7664,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "イタリアン・フレンチ"
       },
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -7751,15 +7751,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "居酒屋"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
         "genre": "イタリアン・フレンチ"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "居酒屋"
       },
       {
         "big_genre": "食べる",
@@ -8162,12 +8162,12 @@
     "pr_message": "頑張ってる子育てもたまにリフレッシュしませんか?美肌&リラクゼーションエステで女子力UP!心を込めてオールハンド施術致します。トライアルエステ施術55分3240円(デコルテ&ネック&フェイシャル)ママスタッフも募集中!お気軽にお電話下さいね。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "理美容"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "理美容"
       }
     ],
     "is_baby_station": false,
@@ -9270,11 +9270,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "住宅・不動産"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "住宅・不動産"
       }
     ],
     "is_baby_station": false,
@@ -9725,12 +9725,12 @@
     "pr_message": "金沢香林坊、広坂通りにある小さなおしるこ専門店。定番の暖かいおしるこ。おぜんざいから、ちょっと珍しい抹茶のおしるこ、夏には冷やししるこや期間限定の白いおしるこまで、幅広いあずき・あんこメニューを取り揃えてお待ちしております。絵本コーナー有り。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -9774,11 +9774,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       },
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -9822,7 +9822,7 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "宿泊・温泉"
       },
       {
         "big_genre": "遊ぶ",
@@ -9830,11 +9830,11 @@
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "アミューズメント"
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
+        "genre": "アミューズメント"
       }
     ],
     "is_baby_station": false,
@@ -10010,11 +10010,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -11037,12 +11037,12 @@
     "pr_message": "季節を感じ、ゆったりしていただけるよう心がけています。中島名産の御菓子(小豆は薪で炊いています)をどうぞ!",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -11178,11 +11178,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -11226,11 +11226,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -11273,12 +11273,12 @@
     "pr_message": "彩匠の店内はガラス張りになっており、工場内を見渡すことができます。また、家族で楽しめる手焼き煎餅体験ができます。",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -11410,11 +11410,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -11458,7 +11458,7 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "買う",
@@ -11466,7 +11466,7 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -11510,7 +11510,7 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "買う",
@@ -11518,7 +11518,7 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -11562,7 +11562,7 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "買う",
@@ -11570,7 +11570,7 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -12043,16 +12043,16 @@
     "pr_message": "お薬の相談はもちろん、日用品から健康や美容のご相談は、お気軽にお近くのスタッフまでお尋ねくださいませ。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -12276,11 +12276,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -12675,12 +12675,12 @@
     "pr_message": "子どもから子育て世代、高齢者までが大家族のように集い、交流が生まれるよう食育ランチをはじめ、様々なイベント等を開催しています。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -12948,11 +12948,11 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "焼肉・鉄板焼き"
       },
       {
         "big_genre": "食べる",
-        "genre": "焼肉・鉄板焼き"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -12996,11 +12996,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "焼肉・鉄板焼き"
       },
       {
         "big_genre": "食べる",
-        "genre": "焼肉・鉄板焼き"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -13224,15 +13224,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -13803,12 +13803,12 @@
     "pr_message": "「焼きたて」をコンセプトに、お子様にも優しい「添加物不使用」のベーグル専門店。\n副材料もできる限り「手づくり」にこだわっています。\n卵や乳を使用していないベーグルも多数!!「ふわふわでもっちり!」の絶妙な食感がやみつきの美味しさ。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -14159,12 +14159,12 @@
     "pr_message": "毎日、出来たこの生菓子を季節に応じて店頭に出しています。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -14340,11 +14340,11 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "公園"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "公園"
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "遊ぶ",
@@ -15891,12 +15891,16 @@
     "pr_message": "山代温泉の古総湯向かいにある紅殻格子のオープンスペース。茶店や土産処があり展示会やモノづくり体験などの各種イベントも不定期に開催中。",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "買う",
@@ -15905,10 +15909,6 @@
       {
         "big_genre": "食べる",
         "genre": "カレー"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -15952,15 +15952,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "洋食・西洋料理"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
         "genre": "カレー"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
       }
     ],
     "is_baby_station": true,
@@ -16315,12 +16315,12 @@
     "pr_message": "契約農家さんからの完全無農薬の玄米や、地元の美味しい食材を使用しています。\nミルク王国内灘の、グレードの高い牛乳を使った、内灘ビーチソフトやスィーツも絶品です。\n",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
@@ -16714,12 +16714,12 @@
     "pr_message": "しあわせお菓子ふらんどーるはおいしい笑顔と豊かな心を創造します。地域に根付いたお菓子作り、おいしさと季節感あふれるお菓子作りを通して、家庭や職場に幸せの輪を広げていきたいと願っております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -16762,12 +16762,12 @@
     "pr_message": "しあわせお菓子ふらんどーるはおいしい笑顔と豊かな心を創造します。地域に根付いたお菓子作り、おいしさと季節感あふれるお菓子作りを通して、家庭や職場に幸せの輪を広げていきたいと願っております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -16810,12 +16810,12 @@
     "pr_message": "しあわせお菓子ふらんどーるはおいしい笑顔と豊かな心を創造します。地域に根付いたお菓子作り、おいしさと季節感あふれるお菓子作りを通して、家庭や職場に幸せの輪を広げていきたいと願っております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -17039,11 +17039,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": true,
@@ -17087,11 +17087,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": true,
@@ -17135,11 +17135,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": true,
@@ -17595,11 +17595,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       },
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -17813,12 +17813,12 @@
     "pr_message": "自家栽培のお米、野菜、大豆、小豆とそれを加工したお餅、漬物、おむすび、和菓子の直売を行っています。安全安心にこだわり、新鮮で美味しいものを提供できるよう心がけています。子供たちに食べさせて安心な食について取り組んでいきたいと考えています。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
@@ -17870,15 +17870,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -18273,15 +18273,15 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "居酒屋"
       },
       {
         "big_genre": "食べる",
         "genre": "洋食・西洋料理"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -18989,10 +18989,6 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
@@ -19002,6 +18998,10 @@
       {
         "big_genre": "食べる",
         "genre": "ファミレス・ファストフード"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -19699,15 +19699,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -19755,15 +19755,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -20075,15 +20075,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20131,15 +20131,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20187,15 +20187,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20243,15 +20243,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20299,15 +20299,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20483,11 +20483,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -20574,12 +20574,12 @@
     "pr_message": "石窯で焼きあげる、素材を活かしたベーシックなパンからオリジナル創作パンまで取り揃えております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -20623,11 +20623,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20671,11 +20671,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20719,11 +20719,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20767,11 +20767,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20815,11 +20815,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20863,11 +20863,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20911,11 +20911,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -20959,11 +20959,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21007,11 +21007,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21055,11 +21055,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21103,11 +21103,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21151,11 +21151,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21199,11 +21199,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21291,11 +21291,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21339,11 +21339,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21387,11 +21387,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21435,11 +21435,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21483,11 +21483,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21788,12 +21788,12 @@
     "pr_message": "石川県最大級の住宅専門サイト【イエタッタ】です。工務店・住宅メーカー様が95社以上登録中です。約500件の建築施工事例から理想のお家・理想の会社が探せます。また、内見会など住宅に関するイベントもスマホで簡単検索&ナビゲートできます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "住宅・不動産"
-      },
-      {
         "big_genre": "暮らす",
         "genre": "情報・通信"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "住宅・不動産"
       }
     ],
     "is_baby_station": false,
@@ -21837,11 +21837,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -21849,7 +21849,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -21893,11 +21893,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -21905,7 +21905,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -22037,11 +22037,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -22049,7 +22049,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -22093,11 +22093,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -22105,7 +22105,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -22149,11 +22149,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -22161,7 +22161,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -22205,11 +22205,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -22217,7 +22217,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -22261,11 +22261,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -22273,7 +22273,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -22317,11 +22317,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -22329,7 +22329,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -22372,16 +22372,12 @@
     "pr_message": "イオンは地域に根ざすお店として「安全・安心」「鮮度」「地産地消」「楽しさ」をコンセプトに豊富に品揃えしてまいります。また「環境保全」の取り組みでは各自治体とタイアップした植樹の活動や、「買物袋持参運動」を推進しております。さらに社会貢献活動",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
         "big_genre": "遊ぶ",
         "genre": "アミューズメント"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -22390,6 +22386,10 @@
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -22477,19 +22477,19 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "イタリアン・フレンチ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カレー"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カレー"
       }
     ],
     "is_baby_station": false,
@@ -23089,16 +23089,16 @@
     "pr_message": "リーズナブルな商品から専門的な商品まで、お客様にわくわくしてもらえる品揃えをし、専門スタッフがいつでもご相談にお応えしています。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -23141,16 +23141,16 @@
     "pr_message": "リーズナブルな商品から専門的な商品まで、お客様にわくわくしてもらえる品揃えをし、専門スタッフがいつでもご相談にお応えしています。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -23198,11 +23198,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -23245,16 +23245,16 @@
     "pr_message": "リーズナブルな商品から専門的な商品まで、お客様にわくわくしてもらえる品揃えをし、専門スタッフがいつでもご相談にお応えしています。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -23298,11 +23298,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -23345,16 +23345,16 @@
     "pr_message": "リーズナブルな商品から専門的な商品まで、お客様にわくわくしてもらえる品揃えをし、専門スタッフがいつでもご相談にお応えしています。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -23397,16 +23397,16 @@
     "pr_message": "リーズナブルな商品から専門的な商品まで、お客様にわくわくしてもらえる品揃えをし、専門スタッフがいつでもご相談にお応えしています。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -23449,16 +23449,16 @@
     "pr_message": "リーズナブルな商品から専門的な商品まで、お客様にわくわくしてもらえる品揃えをし、専門スタッフがいつでもご相談にお応えしています。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -23501,16 +23501,16 @@
     "pr_message": "9月18日よりオープンします。地域の皆様に気軽に立ち寄っていただけるようなお店になるようスタッフ一同励みます。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -23553,16 +23553,16 @@
     "pr_message": "リーズナブルな商品から専門的な商品まで、お客様にわくわくしてもらえる品揃えをし、専門スタッフがいつでもご相談にお応えしています。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -23610,15 +23610,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -23661,16 +23661,8 @@
     "pr_message": "2月9日木曜日に金沢直江にオープン致します。心のこもった接客・わくわくする品揃えで、お客様をお待ちしております。ぜひご利用ください。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "買う",
         "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "食品"
       },
       {
         "big_genre": "買う",
@@ -23679,6 +23671,14 @@
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -23897,11 +23897,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -24913,11 +24913,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       },
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -25137,11 +25137,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -25185,11 +25185,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -25233,11 +25233,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -25281,11 +25281,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -25329,11 +25329,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -25553,11 +25553,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -25820,12 +25820,12 @@
     "pr_message": "ご家族でも安心の座敷ルーム完備!!50種類以上のフードメニューや100種類以上のドリンクメニューを揃えています。 夜は併設した居酒屋から焼鳥・刺身・寿司などがオーダーできます。子供会やスポ少の打上げに最適!!",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "アミューズメント"
-      },
-      {
         "big_genre": "食べる",
         "genre": "ファミレス・ファストフード"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "アミューズメント"
       }
     ],
     "is_baby_station": true,
@@ -27246,11 +27246,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -27382,11 +27382,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27430,11 +27430,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27478,11 +27478,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27526,11 +27526,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27574,11 +27574,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27622,11 +27622,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27670,11 +27670,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27718,11 +27718,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27766,11 +27766,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27814,11 +27814,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27862,11 +27862,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27910,11 +27910,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -27958,11 +27958,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28006,11 +28006,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28054,11 +28054,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28102,11 +28102,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28150,11 +28150,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28198,11 +28198,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28246,11 +28246,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28294,11 +28294,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28342,11 +28342,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28390,11 +28390,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28438,11 +28438,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28486,11 +28486,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28534,11 +28534,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28582,11 +28582,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28630,11 +28630,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28678,11 +28678,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28726,11 +28726,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28774,11 +28774,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28822,11 +28822,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28870,11 +28870,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28918,11 +28918,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -28966,11 +28966,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29014,11 +29014,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29062,11 +29062,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29110,11 +29110,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29158,11 +29158,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29206,11 +29206,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29254,11 +29254,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29302,11 +29302,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29350,11 +29350,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29398,11 +29398,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29446,11 +29446,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29494,11 +29494,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29542,11 +29542,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29590,11 +29590,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29638,11 +29638,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29686,11 +29686,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29734,11 +29734,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29782,11 +29782,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29829,16 +29829,16 @@
     "pr_message": "クスリのアオキは「健康」「美容」「衛生」を通じて、地域のお客様から信頼されるパートナーであることを目指しております。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "遊ぶ",
         "genre": "アミューズメント"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -29882,11 +29882,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29930,11 +29930,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -29978,11 +29978,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30026,11 +30026,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30074,11 +30074,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30122,11 +30122,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30170,11 +30170,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30218,11 +30218,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30266,11 +30266,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30314,11 +30314,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30362,11 +30362,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30410,11 +30410,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30458,11 +30458,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30506,11 +30506,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30554,11 +30554,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -30781,12 +30781,12 @@
         "genre": "健康"
       },
       {
-        "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
-      },
-      {
         "big_genre": "暮らす",
         "genre": "保険"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "宿泊・温泉"
       }
     ],
     "is_baby_station": false,
@@ -30873,12 +30873,12 @@
     "pr_message": "ミルティーユでは、大切なお子様の年に一度のお誕生日がステキな、思い出に残る一日となりますよう協力・支援致します。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -31009,12 +31009,12 @@
     "pr_message": "厳選した素材で作る安心で美味しいケーキをお召し上がり下さい。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -31057,12 +31057,12 @@
     "pr_message": "地元素材のケーキ、ギフト、記念日のデコレーション、季節ごとの限定菓子、米粉コンテストの優勝賞品(じわもん米粉の夢ロール・稲穂の恵)、五郎島金時芋、いちじく、能登大納言小豆、栗、ルビーロマン、加賀棒茶、柿、梅、塩など使った商品を揃えています。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -31110,15 +31110,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31166,15 +31166,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31218,11 +31218,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -31230,7 +31230,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -31278,15 +31278,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31334,15 +31334,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31390,15 +31390,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31446,15 +31446,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31502,15 +31502,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31558,15 +31558,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31614,15 +31614,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31670,15 +31670,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31726,15 +31726,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31782,15 +31782,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31838,15 +31838,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -32993,16 +32993,16 @@
     "pr_message": "15〜20分で結果がわかる簡易血液検査で、糖尿病と高脂血症などによる生活習慣病の予防する取り組みを行っています。\nまた、管理栄養士による栄養相談も行っています。\n 家族の健康のこと、お子様の発育のこと、ご自分の美容のこと、どんなことでもお気軽にご相談ください。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -33045,16 +33045,16 @@
     "pr_message": "コメヤ薬局発祥の地、旧鶴来町のショッピングゾーンに位置するお店です。\n一般用医薬品だけでなく、漢方薬も充実しています。\n予防、治療、根本治療によって、400年も前から地域の人々を健康な生活のお手伝いをしています。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -33361,12 +33361,12 @@
     "pr_message": "作り立てのパン・ケーキ・サンドイッチが豊富にそろっています。店内では全115席の広い飲食スペースがあり、お子様連れにも安心です。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -34382,11 +34382,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34430,11 +34430,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34477,12 +34477,12 @@
     "pr_message": "アイスクリーム専門店です。毎日違うアイスクリームを31種類お楽しみいただいております。その都度特典が変わります。お楽しみに!!",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -34609,11 +34609,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34657,11 +34657,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34705,11 +34705,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34753,11 +34753,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34801,11 +34801,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34849,11 +34849,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34897,11 +34897,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34945,11 +34945,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34993,11 +34993,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35041,11 +35041,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35089,11 +35089,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35137,11 +35137,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35185,11 +35185,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35233,11 +35233,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35281,11 +35281,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35329,11 +35329,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35377,11 +35377,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35425,11 +35425,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35473,11 +35473,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35521,11 +35521,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35569,11 +35569,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35617,11 +35617,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -35665,11 +35665,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -36450,12 +36450,12 @@
     "pr_message": "作り立てのパン・ケーキ・サンドイッチ、そして、おいしいコーヒーが自慢の店内には飲食スペースを併設しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -36752,12 +36752,12 @@
     "pr_message": "ご搭乗までの待ち時間に憩いのひとときを・・・ 豊富な種類のドリンクバーが人気です。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -36801,11 +36801,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "中華・ラーメン"
       },
       {
         "big_genre": "食べる",
-        "genre": "中華・ラーメン"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -37156,12 +37156,12 @@
     "pr_message": "イオンは地域に根ざすお店として「安全・安心」「鮮度」「地産地消」「楽しさ」をコンセプトに豊富に品揃えしてまいります。また「環境保全」の取り組みでは各自治体とタイアップした植樹の活動や、「買物袋持参運動」を推進しております。さらに社会貢献活動",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "写真"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "写真"
       }
     ],
     "is_baby_station": false,
@@ -37381,11 +37381,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37429,11 +37429,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37477,11 +37477,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37525,11 +37525,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37573,11 +37573,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37621,11 +37621,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37669,11 +37669,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37717,11 +37717,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37765,11 +37765,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37813,11 +37813,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37861,11 +37861,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37909,11 +37909,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -37957,11 +37957,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -38005,11 +38005,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -38233,15 +38233,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -39046,20 +39046,52 @@
     "pr_message": "子育て真っ只中の夫婦が、地産地店、こだわり素材で作る「うちたて、できたて」の自家製麺 白山饂飩を楽しめるうどん屋です。保存料は使わず、お子様にも好まれるやさしい味で仕上げることに心がけています。ぜひご家族の大切な時間を当方でお過ごしくださいませ。キッズメニュー、離乳食うどんもご用意あります!",
     "genres": [
       {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "アミューズメント"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "居酒屋"
+      },
+      {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "情報・通信"
       },
       {
         "big_genre": "買う",
         "genre": "衣類"
       },
       {
+        "big_genre": "暮らす",
+        "genre": "写真"
+      },
+      {
+        "big_genre": "育てる",
+        "genre": "習い事"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "ファミレス・ファストフード"
+      },
+      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
       },
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
-        "genre": "写真"
+        "genre": "健康"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       },
       {
         "big_genre": "遊ぶ",
@@ -39067,39 +39099,7 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
-        "big_genre": "育てる",
-        "genre": "習い事"
-      },
-      {
-        "big_genre": "遊ぶ",
-        "genre": "アミューズメント"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "暮らす",
-        "genre": "情報・通信"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "居酒屋"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "カレー"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": true,
@@ -39186,12 +39186,12 @@
     "pr_message": "店の前面には世界から選びすぐったコーヒー豆を中心にコーヒー関連商品やギフトなどを豊富に展示販売しています。奧には落ち着いた雰囲気のカウンターで本格サイフォンコーヒーやケーキ等がお手軽価格で楽しめます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -39234,12 +39234,12 @@
     "pr_message": "コーヒー豆や関連商品、ギフトなどを豊富に取り揃えています。喫茶カウンターでは、注文に応じその都度淹れるドリップコーヒーが楽しめます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -39282,12 +39282,12 @@
     "pr_message": "コーヒー豆や関連商品、ギフト等を豊富に取り揃えています。喫茶カウンターでは、注文に応じその都度淹れるドリップコーヒーが楽しめます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -39330,12 +39330,12 @@
     "pr_message": "コーヒー豆やコーヒー関連商品、ギフト等を豊富に取り揃えています。喫茶カウンターでは、注文に応じてその都度淹れるサイフォンコーヒーが楽しめる、アットホームな雰囲気のお店です。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -39378,12 +39378,12 @@
     "pr_message": "17度前後に管理されたショーケースで品質を一定に保ちながらコーヒー豆を販売しています。当社では、この店にしかないコーヒーアイスクリームをはじめ、コーヒー、各種ドリンクメニューのテイクアウトもしています。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -39593,7 +39593,7 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "情報・通信"
       },
       {
         "big_genre": "遊ぶ",
@@ -39601,7 +39601,7 @@
       },
       {
         "big_genre": "暮らす",
-        "genre": "情報・通信"
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -39645,7 +39645,7 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "情報・通信"
       },
       {
         "big_genre": "遊ぶ",
@@ -39653,7 +39653,7 @@
       },
       {
         "big_genre": "暮らす",
-        "genre": "情報・通信"
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -39696,16 +39696,8 @@
     "pr_message": "ご家族連れで天然温泉の大浴場と日本海の海の幸をふんだんに使った美味しいお食事をお楽しみ下さい。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "中華・ラーメン"
+        "big_genre": "遊ぶ",
+        "genre": "アミューズメント"
       },
       {
         "big_genre": "遊ぶ",
@@ -39713,23 +39705,31 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "焼肉・鉄板焼き"
-      },
-      {
-        "big_genre": "遊ぶ",
-        "genre": "アミューズメント"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "居酒屋"
       },
       {
         "big_genre": "食べる",
-        "genre": "カレー"
+        "genre": "中華・ラーメン"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       },
       {
         "big_genre": "食べる",
         "genre": "洋食・西洋料理"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "焼肉・鉄板焼き"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カレー"
       }
     ],
     "is_baby_station": true,
@@ -39773,11 +39773,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -39821,15 +39821,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -39917,7 +39917,7 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "情報・通信"
       },
       {
         "big_genre": "遊ぶ",
@@ -39925,7 +39925,7 @@
       },
       {
         "big_genre": "暮らす",
-        "genre": "情報・通信"
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -41724,11 +41724,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -41772,11 +41772,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -41820,11 +41820,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -41868,11 +41868,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -41916,11 +41916,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -41964,11 +41964,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -42011,16 +42011,16 @@
     "pr_message": "食品スーパー「どんたく」さんの隣にあるお店です。\n子供さんが遊べるキッズコーナーもあります。お子様と一緒にごゆっくりお買い回りくださいませ。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -42063,16 +42063,16 @@
     "pr_message": "ショッピングセンターアビオシティ加賀店の1階にあるお店です。\n平成28年4月から調剤薬局も併設いたしました。\n処方せんの受付も行っていますので、",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -42115,16 +42115,16 @@
     "pr_message": "ショッピングセンターアピタ金沢店の1階にあるお店です。\n",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -42168,11 +42168,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -42216,11 +42216,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -42264,11 +42264,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -42311,16 +42311,16 @@
     "pr_message": "金沢駅から石川県庁に伸びる「けあき通り」に面したお店です。\nお薬だけでなく、美容に関する商品やお菓子も販売している他、\n無農薬野菜の「トモファームあゆみ野菜」も取り扱っています。\n体によい商品がいっぱいのお店です。是非ご家族でお越しくださいませ。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -42496,7 +42496,7 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -42504,7 +42504,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -42548,11 +42548,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -42596,11 +42596,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -42644,11 +42644,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -42692,11 +42692,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -42740,11 +42740,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -42788,11 +42788,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -44287,15 +44287,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -44339,11 +44339,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -44430,12 +44430,12 @@
     "pr_message": "”お店はお客様のためにある”無添加生地使用、毎日食べるものだから美味しくて身体に良いものを、それが「ビロン」のこだわりです。テイクアウトはもちろん、カフェも楽しめます。爽やかな風と緑に囲まれたテラスで、パンやケーキと一緒にティータイム",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -44478,12 +44478,12 @@
     "pr_message": "”お店はお客様のためにある”無添加生地使用、毎日食べるものだから美味しくて身体に良いものを、それが「ビロン」のこだわりです。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -44571,11 +44571,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -44663,11 +44663,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -44842,16 +44842,16 @@
     "pr_message": "フィットネスガレージななおでは、子供スイミング・体操・ヒップホップダンス教室や夏にはスノーケリング教室、走りを速くする駆けっ子教室などお子様に沢山の「成功体験」や「自信」を積み重ねていただける教室をモットーに営業しております。",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
-      },
-      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -45087,11 +45087,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -45398,12 +45398,12 @@
     "pr_message": "創業61年。化粧品とソニック(超音波)エステのお店です。あなたの街のご近所エステ。20代〜90代の幅広い年齢層から支持を受けています。乾燥・しわ・シミ・たるみといった様々なお肌悩みに有効です。経験豊富なスタッフが一人一人の美をサポート。是非お気軽にどうぞ。\n",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "理美容"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "理美容"
       }
     ],
     "is_baby_station": false,
@@ -45749,12 +45749,12 @@
     "pr_message": "手づくりのおいしさを大切に。お子様からお年寄りまで喜んでいただける優しい味のお菓子。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -45889,12 +45889,12 @@
         "genre": "健康"
       },
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -46118,15 +46118,15 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
-        "big_genre": "暮らす",
         "genre": "病院"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -46302,11 +46302,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -47670,11 +47670,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "イタリアン・フレンチ"
       },
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
@@ -47858,15 +47858,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -47914,15 +47914,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -47970,15 +47970,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -48026,15 +48026,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -48341,11 +48341,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48389,11 +48389,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48437,11 +48437,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48529,11 +48529,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48577,11 +48577,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48625,11 +48625,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48673,11 +48673,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48721,11 +48721,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48769,11 +48769,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48817,11 +48817,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48865,11 +48865,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48913,11 +48913,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -48961,11 +48961,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49009,11 +49009,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49057,11 +49057,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49105,11 +49105,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49153,11 +49153,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49201,11 +49201,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49249,11 +49249,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49297,11 +49297,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49345,11 +49345,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49393,11 +49393,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49441,11 +49441,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49489,11 +49489,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49537,11 +49537,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49585,11 +49585,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49633,11 +49633,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49681,11 +49681,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49729,11 +49729,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49777,11 +49777,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -49869,11 +49869,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -49961,11 +49961,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50009,11 +50009,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50057,11 +50057,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -50105,11 +50105,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50153,11 +50153,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50201,11 +50201,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50337,11 +50337,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50599,12 +50599,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -50647,12 +50647,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -50695,12 +50695,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -50743,16 +50743,16 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
       },
       {
         "big_genre": "食べる",
         "genre": "ファミレス・ファストフード"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -50795,12 +50795,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -50843,12 +50843,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様のご来店をこころよりお待ちしております。\n",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -50891,12 +50891,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -50939,12 +50939,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -50987,12 +50987,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -51035,12 +51035,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -51083,12 +51083,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -51131,12 +51131,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -51179,12 +51179,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -51227,12 +51227,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -51314,12 +51314,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -51362,12 +51362,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -51410,12 +51410,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -51806,15 +51806,15 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "イタリアン・フレンチ"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -51950,11 +51950,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       },
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -53626,11 +53626,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "イタリアン・フレンチ"
       },
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -54053,12 +54053,12 @@
     "pr_message": "パティシエ辻口博啓の地元七尾市にあるミュージアム&カフェ。地元素材をふんだんに使用した石川でしか味わう事ができないオリジナルスイーツを能登の海を一望しながら楽しむことができます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -54101,12 +54101,12 @@
     "pr_message": "パティシエ辻口博啓の石川県立美術館内にあるパティスリー&カフェ。地元素材を使った石川でしか味わう事のできないオリジナルスイーツや、玉露茶とデザートのコースが本多の森を一望しながら楽しむ事ができます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -54150,11 +54150,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -54198,7 +54198,7 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
@@ -54206,11 +54206,11 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "カレー"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "カレー"
       }
     ],
     "is_baby_station": false,
@@ -54530,11 +54530,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -55433,6 +55433,10 @@
     "pr_message": "日帰りプランが充実しております。基本日帰りプラン(いろり炭火膳+お部屋休憩5時間+入浴)、素休み(お部屋休憩5時間+入浴)。",
     "genres": [
       {
+        "big_genre": "遊ぶ",
+        "genre": "公園"
+      },
+      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
       },
@@ -55441,16 +55445,12 @@
         "genre": "体験・観光スポット"
       },
       {
-        "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
-      },
-      {
-        "big_genre": "遊ぶ",
-        "genre": "公園"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "宿泊・温泉"
       }
     ],
     "is_baby_station": false,
@@ -55580,12 +55580,12 @@
     "pr_message": "運転免許に関することは何でもご相談ください。また、エコドライブや高齢者講習も承っております。更に、ベテランドライバーの方が改めてご自身の運転を再評価する講習も実施しておりますので、お気軽にお問い合わせください。\n",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -56379,12 +56379,12 @@
     "pr_message": "お子さんが元気じゃないと、家族は笑顔でいられない!お母さんが元気じゃないと、笑顔で子育てできない!ですよね!!健康食品と漢方薬でご家族みなさんの心と身体が健康になって『笑顔』になれるお手伝い♪女性店主対応・産前産後・皮膚病・冷えetc",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -56515,12 +56515,12 @@
     "pr_message": "当店の和菓子、赤飯など原料にこだわりを持ち、手作りの品を販売しております。 特にもち米を使った餅、赤飯は、自信を持って販売しています。是非一度、御賞味してはいかがでしょうか!",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -56959,16 +56959,16 @@
     "pr_message": "医薬品から日用品まで幅広く取り揃えています。ぜひご家族でお越しください。\nなお、健康上の相談などがありましたらお気軽にスタッフにお問い合わせください。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -57144,11 +57144,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       },
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -57675,12 +57675,12 @@
     "pr_message": "当店は契約栽培でつくられた顔の見える「厳選した品質」のお米を使用し、そこにお米マイスターの匠の技で丹精込めて精米しております。お子様の健やかな成長に安心、安全な食生活をお届けします。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -58563,16 +58563,16 @@
     "pr_message": "マクロビオティックという、厳正な自然食に完全対応しているレストランです。店内の水道水を浄活水し、自家栽培の野菜を中心に厳選された食材のみを使い、卵・肉・魚・ミルクなど動物性の食材、単糖類の多い砂糖や不自然な添加物は、一切使用していません。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
         "genre": "和食・寿司"
       },
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "big_genre": "暮らす",
+        "genre": "健康"
       },
       {
         "big_genre": "買う",
@@ -60307,11 +60307,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       },
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -60354,12 +60354,12 @@
     "pr_message": "自家栽培のお米、野菜、大豆、小豆とそれを加工したお餅、漬物、おむすび、和菓子の直売を行っています。安全安心にこだわり、新鮮で美味しいものを提供できるよう心がけています。子供たちに食べさせて安心な食について取り組んでいきたいと考えています。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
@@ -60797,20 +60797,12 @@
     "pr_message": "緑豊かな広大な丘陵地に江戸・明治時代の茅葺き屋根の古民家を移築。村内では石川県が全国に誇る加賀友禅・金箔・輪島塗・九谷焼・和紙など約50種類以上の伝統工芸体験が楽しめます。また、食事処や子供の広場もありご家族で遊べます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
-      },
-      {
         "big_genre": "遊ぶ",
         "genre": "公園"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -60819,6 +60811,14 @@
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -60904,16 +60904,16 @@
         "genre": "体験・観光スポット"
       },
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
       },
       {
         "big_genre": "食べる",
         "genre": "焼肉・鉄板焼き"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": true,
@@ -61180,12 +61180,12 @@
     "pr_message": "丸福では、四季折々の暮らしに息づく生菓子・餅・赤飯を製造、販売しております。お子様の誕生から入園・入学・卒業など節目の折のお喜びの品としてもご好評をいただいております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -61272,12 +61272,12 @@
     "pr_message": "小松駅前から徒歩5分 お店ではご試食を用意して皆様のご来店をお待ちしております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -62195,8 +62195,20 @@
     "pr_message": "おけいこサロン、イベントスペース&企画、コワーキングスペースを運営する北陸ガールズスクエアです。『まなび』と『であい』を大切にし、何か一つでも学べる・得られる・体験できるイベントやセミナーを企画しています。\nまたレンタルスペース、コワーキングスペース、シェアオフィスに棚ショップを運営しています。",
     "genres": [
       {
+        "big_genre": "暮らす",
+        "genre": "保険"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "情報・通信"
+      },
+      {
         "big_genre": "育てる",
         "genre": "つどいの広場・子育て支援センター"
+      },
+      {
+        "big_genre": "育てる",
+        "genre": "習い事"
       },
       {
         "big_genre": "暮らす",
@@ -62205,18 +62217,6 @@
       {
         "big_genre": "遊ぶ",
         "genre": "体験・観光スポット"
-      },
-      {
-        "big_genre": "暮らす",
-        "genre": "保険"
-      },
-      {
-        "big_genre": "育てる",
-        "genre": "習い事"
-      },
-      {
-        "big_genre": "暮らす",
-        "genre": "情報・通信"
       }
     ],
     "is_baby_station": false,
@@ -63184,11 +63184,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63232,11 +63232,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63280,11 +63280,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63328,11 +63328,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63376,11 +63376,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63424,11 +63424,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63472,11 +63472,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63520,11 +63520,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63568,11 +63568,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63616,11 +63616,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63664,11 +63664,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63712,11 +63712,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -63760,11 +63760,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "金融"
+        "genre": "保険"
       },
       {
         "big_genre": "暮らす",
-        "genre": "保険"
+        "genre": "金融"
       }
     ],
     "is_baby_station": false,
@@ -65876,11 +65876,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -65931,16 +65931,16 @@
         "genre": "体験・観光スポット"
       },
       {
+        "big_genre": "食べる",
+        "genre": "洋食・西洋料理"
+      },
+      {
         "big_genre": "買う",
         "genre": "食品"
       },
       {
         "big_genre": "食べる",
         "genre": "カレー"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
       }
     ],
     "is_baby_station": false,
@@ -66211,12 +66211,12 @@
     "pr_message": "四季折々の能登の和洋菓子を多数取り揃えております。大切なおもてなしや、ご贈答にぜひご利用くださいませ。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -66524,11 +66524,11 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "アミューズメント"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "アミューズメント"
+        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -67583,12 +67583,12 @@
     "pr_message": "モーニング・ランチ・手作りケーキなどをリーズナブルにお召し上がり頂けます。白を基調としたアットホームな店内でごゆっくりお過ごし下さい。ご家族連れは土日のモーニングがオススメ!どうぞお気軽にお越しくださいませ。アイシングクッキー教室など様々なイベントも開催しています。facebookをチェックしてね!",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -68519,6 +68519,10 @@
     "pr_message": "大和友の会「カーネーションサークル」では月々1口2,000円のお積立で12回の満期時には2,000円のボーナス券をプラスした26,000円のお買物券とお引き換えいたします。各種施設ご優待利用など特典が満載です。",
     "genres": [
       {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
+      },
+      {
         "big_genre": "買う",
         "genre": "衣類"
       },
@@ -68527,20 +68531,16 @@
         "genre": "和食・寿司"
       },
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -68628,11 +68628,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -68676,11 +68676,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -69032,15 +69032,15 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
-        "big_genre": "暮らす",
         "genre": "清掃・クリーニング"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -74239,12 +74239,12 @@
     "pr_message": "鉢花・花苗・ハーブの生産直売をしていますから、花の生産現場を自由に見学したり、ハーブガーデンを、無料で散策できます。ブランコやベンチ、休憩コーナーが備え付けられています。夢見草では、手作りケーキなど飲食ができます。アロマテラピーの体験実習も",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "公園"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "公園"
       }
     ],
     "is_baby_station": false,
@@ -74556,15 +74556,15 @@
     "genres": [
       {
         "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
         "genre": "食品"
       },
       {
         "big_genre": "食べる",
         "genre": "和食・寿司"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -74739,12 +74739,12 @@
     "pr_message": "森をイメージした開放的な空間でごゆっくりお過ごしください。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "学習用品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -74831,11 +74831,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -74883,11 +74883,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -74978,16 +74978,16 @@
     "pr_message": "お薬のご相談はもちろん、日用品から健康や美容のご相談は、お気軽にお近くのスタッフまでお尋ねくださいませ。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -75698,16 +75698,16 @@
     "pr_message": "お薬の相談はもちろん、日用品から健康や美容のご相談は、お気軽にお近くのスタッフまでお尋ねくださいませ。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -75882,12 +75882,12 @@
     "pr_message": "お客様に安心・納得の整備・販売を提供します。●新車・中古車●車検・点検●保険・鈑金タイヤのパンクやバッテリー上がり・・・など車のことなら何でもお気軽にご相談ください(^^ゞ",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -76151,11 +76151,11 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "公園"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "公園"
+        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -76291,11 +76291,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -76343,15 +76343,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -76399,15 +76399,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -76455,15 +76455,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -76511,15 +76511,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -76567,15 +76567,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -76619,11 +76619,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -76983,11 +76983,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -77162,16 +77162,16 @@
     "pr_message": "名物加賀福などの箱菓子の他にも、日常で召し上がって頂けるバラ菓子も250種以上販売。お子様向けの商品を集めたキッズコーナーも充実し、お菓子作り体験(日、祝)は子どもから大人まで楽しめます。",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
-      },
-      {
         "big_genre": "食べる",
         "genre": "イタリアン・フレンチ"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "食べる",
@@ -77358,16 +77358,16 @@
     "pr_message": "お薬だけでなく、美容に関する商品やお菓子も販売しています",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -78536,12 +78536,12 @@
     "pr_message": "北陸最大級のマルチメディア複合書店に是非お越しください。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "学習用品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -78717,19 +78717,19 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "暮らす",
         "genre": "理美容"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -78816,12 +78816,12 @@
     "pr_message": "一歩進んだ顧客サービスを目指します。 \nお客様の「困った」を「良かった」に変えて、感動と喜びを提供させて頂きます。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "買う",
         "genre": "住宅・不動産"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -78913,15 +78913,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -79053,7 +79053,7 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "情報・通信"
       },
       {
         "big_genre": "遊ぶ",
@@ -79061,7 +79061,7 @@
       },
       {
         "big_genre": "暮らす",
-        "genre": "情報・通信"
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -79504,11 +79504,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       },
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -80148,11 +80148,11 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "公園"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "公園"
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "遊ぶ",
@@ -80199,12 +80199,12 @@
     "pr_message": "一包のあんころ餅がご家族のだんらんの媒介になりますように...そんな思いを込めて、お手元に届けさせて頂いております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -80560,7 +80560,7 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "情報・通信"
       },
       {
         "big_genre": "遊ぶ",
@@ -80568,7 +80568,7 @@
       },
       {
         "big_genre": "暮らす",
-        "genre": "情報・通信"
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -81045,12 +81045,12 @@
     "pr_message": "ガス・リフォーム・不動産のお店です。\n☆ポイント制導入、毎月のガス・灯油代で貯まったポイントを景品と交換!☆年に一度の感謝祭!☆毎月お役立ち情報誌発行!☆水廻り修理も即対応!☆オール電化販売、光熱費試算承ります。お気軽にお問合せ下さい。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "買う",
         "genre": "住宅・不動産"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -81145,12 +81145,12 @@
         "genre": "保険"
       },
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -81194,19 +81194,19 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "保険"
       },
       {
-        "big_genre": "暮らす",
-        "genre": "保険"
+        "big_genre": "買う",
+        "genre": "住宅・不動産"
       },
       {
         "big_genre": "暮らす",
         "genre": "情報・通信"
       },
       {
-        "big_genre": "買う",
-        "genre": "住宅・不動産"
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -81807,11 +81807,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "焼肉・鉄板焼き"
       },
       {
         "big_genre": "食べる",
-        "genre": "焼肉・鉄板焼き"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -81854,12 +81854,12 @@
     "pr_message": "大正4年創業。創業以来、味、形、彩の三拍子揃ったお菓子作りを目指し、心をこめて季節感のある美味しいお菓子作りに励んでおります。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -82079,11 +82079,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -82127,11 +82127,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -82175,11 +82175,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -82223,11 +82223,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -82271,11 +82271,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -82319,11 +82319,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -82367,11 +82367,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -82415,11 +82415,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -82994,16 +82994,16 @@
     "pr_message": "お薬の相談はもちろん、日用品から健康や美容のご相談は、お気軽にお近くのスタッフまでお尋ねくださいませ。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -83223,11 +83223,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       },
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -83271,11 +83271,11 @@
     "genres": [
       {
         "big_genre": "育てる",
-        "genre": "つどいの広場・子育て支援センター"
+        "genre": "放課後児童クラブ"
       },
       {
         "big_genre": "育てる",
-        "genre": "放課後児童クラブ"
+        "genre": "つどいの広場・子育て支援センター"
       },
       {
         "big_genre": "育てる",
@@ -83323,11 +83323,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -83414,12 +83414,12 @@
     "pr_message": "喫茶ではケーキセットが600円。コーヒーか紅茶いずれかの飲み物とショートケーキどれでも1個を選べるセットです。上記以外の飲み物とケーキを召し上がった場合は、ケーキが50円引きとなります。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -83462,12 +83462,12 @@
     "pr_message": "1年に1回の大切なお誕生日を、お子様の大好きな苺の生クリームケーキでぜひお祝い下さい。メッセージプレートにはご希望のお言葉をどうぞ。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -83774,12 +83774,12 @@
     "pr_message": "心のこもった洋菓子で、ティータイムを 喫茶コーナーではケーキセット600円でおたのしみいただけます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -83822,12 +83822,12 @@
     "pr_message": "開店当時から人気のチーズケーキやモザイクを始め、今はロールケーキも多数販売中。お子様に人気のキャラクターケーキは、誕生日にピッタリです。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -84135,11 +84135,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -84362,16 +84362,16 @@
     "pr_message": "イオンは地域に根ざすお店として「安全・安心」「鮮度」「地産地消」「楽しさ」をコンセプトに豊富に品揃えしてまいります。また「環境保全」の取り組みでは各自治体とタイアップした植樹の活動や、「買物袋持参運動」を推進しております。さらに社会貢献活動",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
       },
       {
         "big_genre": "食べる",
         "genre": "焼肉・鉄板焼き"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -85294,12 +85294,12 @@
     "pr_message": "世界中から厳選した生豆を多数用意し、お客様一人一人のお好みに応じご注文頂いてから焙煎いたします。又、淹れる水にまでこだわった本格ネルドリップが、明るく開放的な喫茶フロアーで楽しめます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -85342,12 +85342,12 @@
     "pr_message": "生豆を多数用意し、お客様一人一人のお好みに応じた「オリジナルコーヒー」をその場で焙煎いたします。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -85732,7 +85732,7 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -85740,7 +85740,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -85784,11 +85784,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -85840,19 +85840,19 @@
       },
       {
         "big_genre": "暮らす",
+        "genre": "理美容"
+      },
+      {
+        "big_genre": "暮らす",
         "genre": "交通・燃料"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "暮らす",
-        "genre": "理美容"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -85896,7 +85896,7 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -85904,7 +85904,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -85948,7 +85948,7 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -85956,7 +85956,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -86000,7 +86000,7 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -86008,7 +86008,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -86052,7 +86052,7 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -86060,7 +86060,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -86147,12 +86147,12 @@
     "pr_message": "素材にこだわり、四季折々の和菓子を取り揃えてお待ちしております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -86855,11 +86855,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -87431,7 +87431,7 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -87439,7 +87439,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -88622,11 +88622,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -88670,11 +88670,11 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "公園"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "公園"
+        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -88850,11 +88850,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -89821,16 +89821,16 @@
     "pr_message": "お薬だけでなく、美容に関する商品やお菓子も販売しています。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -91377,16 +91377,16 @@
         "genre": "カフェ・スイーツ"
       },
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "食べる",
         "genre": "イタリアン・フレンチ"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -91965,12 +91965,12 @@
     "pr_message": "開校30周年を迎え、初心運転者教育及びその他安全運転に関する講習を実施し、地域に密着した運転者の育成に努めています。七尾鹿島の県道沿いにあり、無料送迎バスにてお客様を送迎しております。是非ご来校下さい。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -94781,16 +94781,16 @@
     "pr_message": "昔の茶屋街を改築した店内は、落ち着いた雰囲気です。スタッフがいれるお茶を、季節のお菓子とともに楽しんで下さい。ギャラリー・物販コーナーもございます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "big_genre": "買う",
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
       },
       {
-        "big_genre": "買う",
-        "genre": "日用品"
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -94833,12 +94833,12 @@
     "pr_message": "献上加賀棒茶をはじめとする原料にこだわったお茶を取り揃えております。また、喫茶スペースでは、お菓子とセットにて、お茶をお召し上がりいただけます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -94969,12 +94969,12 @@
     "pr_message": "菓子工房西都KOGURAは季節感を大切にして、厳選した原材料でお菓子をひとつひとつ真心を込めて作っております。ケーキ、焼き菓子は常時20〜30種類取り揃えており、バースデーケーキ、焼き菓子のギフトなどのご注文も承っております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -95106,11 +95106,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "住宅・不動産"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "住宅・不動産"
       }
     ],
     "is_baby_station": false,
@@ -95808,12 +95808,12 @@
     "pr_message": "輪島工房長屋は各工房ごとに建物が分かれてあり、職人さんの作業が見れる職人工房や、箸作り体験ができる体験工房、輪島塗のショップがある漆器工房他、輪島塗に関するものがギュッと詰まった施設になっております。\n",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -95900,15 +95900,15 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -96248,16 +96248,16 @@
     "pr_message": "里海館からは日本海が一望でき、夕暮れ時に、日本海に沈む夕日をパノラマで見るのがおススメです。地元の食材を使用した食事メニューや、季節でフレーバーが変わるソフトクリーム、里山館では産直コーナーもあります。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
       },
       {
         "big_genre": "食べる",
         "genre": "ファミレス・ファストフード"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": true,
@@ -96344,16 +96344,16 @@
     "pr_message": "健康・美容相談受付中",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -96989,15 +96989,15 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
         "genre": "中華・ラーメン"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
@@ -97263,12 +97263,12 @@
     "pr_message": "世界初「豆型建築」書店、日本最大級の品揃えの書籍専門館です。タリーズも併設されておりゆっくと本を選ぶことができます。皆様のご来店を心よりお持ち致しております。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "学習用品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -97312,7 +97312,7 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -97320,7 +97320,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": true,
@@ -98908,15 +98908,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "洋食・西洋料理"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
         "genre": "和食・寿司"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
       }
     ],
     "is_baby_station": false,
@@ -98959,12 +98959,12 @@
     "pr_message": "金沢国際ホテル内、パティスリー「マルメロ」。お子様が安心して口にできる素材選びに、気を使っています。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -100306,12 +100306,12 @@
     "pr_message": "「免疫を正せば自力で治る」「病は口から入る」「病気は自分で造り自分で治す」「宣伝・流行に踊らない、不易」病気にならない体造り、応援します。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -100398,20 +100398,20 @@
     "pr_message": "2013年10月にタテマチでオープン、2016年11月より金沢市三小牛町(みつこうじまち)に移転営業。ママ目線で選んだベビー&キッズ雑貨やオリジナルおむつケーキなどのギフトが充実。また、ベビーマッサージや産後ヨガ教室も定期的に開催中。最新情報はFacebookページをご覧ください♪",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -101417,16 +101417,16 @@
     "pr_message": "お薬の相談はもちろん、日用品から健康や美容のご相談は、お気軽にお近くのスタッフまでお尋ねくださいませ。",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -103141,15 +103141,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -104200,11 +104200,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "情報・通信"
       },
       {
         "big_genre": "暮らす",
-        "genre": "情報・通信"
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -104598,12 +104598,12 @@
     "pr_message": "スギヨファームでは能登のミネラル豊富な赤土から育てた野菜や果物、その農産物を使用したドレッシングやジャムの販売。店内では野菜のソフトクリームや無添加のジェラートなどを召し上がれます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -105692,12 +105692,12 @@
     "pr_message": "兼六園で行列のできるお団子屋です。お団子の他にも四季折々の和菓子をご用意しております。お気軽にお立ち寄りください。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -105912,7 +105912,7 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "情報・通信"
       },
       {
         "big_genre": "遊ぶ",
@@ -105920,7 +105920,7 @@
       },
       {
         "big_genre": "暮らす",
-        "genre": "情報・通信"
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -105964,7 +105964,7 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "情報・通信"
       },
       {
         "big_genre": "遊ぶ",
@@ -105972,7 +105972,7 @@
       },
       {
         "big_genre": "暮らす",
-        "genre": "情報・通信"
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -106265,11 +106265,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "イタリアン・フレンチ"
       },
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -108737,11 +108737,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -109093,7 +109093,7 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -109101,7 +109101,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
@@ -109277,7 +109277,7 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "情報・通信"
       },
       {
         "big_genre": "遊ぶ",
@@ -109285,7 +109285,7 @@
       },
       {
         "big_genre": "暮らす",
-        "genre": "情報・通信"
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -109461,11 +109461,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       }
     ],
     "is_baby_station": false,
