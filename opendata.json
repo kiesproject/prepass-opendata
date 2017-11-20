@@ -444,15 +444,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -1055,7 +1055,7 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
@@ -1063,11 +1063,11 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "カレー"
       },
       {
         "big_genre": "食べる",
-        "genre": "カレー"
+        "genre": "イタリアン・フレンチ"
       }
     ],
     "is_baby_station": false,
@@ -1639,11 +1639,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -3781,28 +3781,28 @@
     "pr_message": "*石川県初☆保育士駐在エステサロン*\n?保育士駐在エステサロン☆\n4人の子育て経験&ベテラン保育士によるお子様見守りサービス?\n※小学校低学年までのお子様が対象\n?ママメニューが充実☆\n現役ママから生まれたメニューです?\n?ママサークル☆\n子育ての悩みや、嬉しいことを皆で共有しましょう?",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "アミューズメント"
+        "big_genre": "暮らす",
+        "genre": "健康"
       },
       {
         "big_genre": "暮らす",
         "genre": "理美容"
       },
       {
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "アミューズメント"
+      },
+      {
         "big_genre": "買う",
         "genre": "日用品"
       },
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -4377,12 +4377,12 @@
     "pr_message": "CoCo壱番屋は、ファミリーの方でも入店しやすいテーブル席、幼児用イス、おもちゃ、お菓子、お子様メニュー等そろえております。是非ご家族でココイチの美味しいカレーを味わって下さい。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -4425,12 +4425,12 @@
     "pr_message": "CoCo壱番屋は、ファミリーの方でも入店しやすいテーブル席、幼児用イス、おもちゃ、お菓子、お子様メニュー等そろえております。是非ご家族でココイチの美味しいカレーを味わって下さい。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -4473,12 +4473,12 @@
     "pr_message": "CoCo壱番屋は、ファミリーの方でも入店しやすいテーブル席、幼児用イス、おもちゃ、お菓子、お子様メニュー等そろえております。是非ご家族でココイチの美味しいカレーを味わって下さい。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -4521,12 +4521,12 @@
     "pr_message": "CoCo壱番屋は、ファミリーの方でも入店しやすいテーブル席、幼児用イス、おもちゃ、お菓子、お子様メニュー等そろえております。是非ご家族でココイチの美味しいカレーを味わって下さい。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -4569,12 +4569,12 @@
     "pr_message": "CoCo壱番屋は、ファミリーの方でも入店しやすいテーブル席、幼児用イス、おもちゃ、お菓子、お子様メニュー等そろえております。是非ご家族でココイチの美味しいカレーを味わって下さい。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -4617,12 +4617,12 @@
     "pr_message": "CoCo壱番屋は、ファミリーの方でも入店しやすいテーブル席、幼児用イス、おもちゃ、お菓子、お子様メニュー等そろえております。是非ご家族でココイチの美味しいカレーを味わって下さい。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -4665,12 +4665,12 @@
     "pr_message": "CoCo壱番屋は、ファミリーの方でも入店しやすいテーブル席、幼児用イス、おもちゃ、お菓子、お子様メニュー等そろえております。是非ご家族でココイチの美味しいカレーを味わって下さい。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -4713,12 +4713,12 @@
     "pr_message": "CoCo壱番屋は、ファミリーの方でも入店しやすいテーブル席、幼児用イス、おもちゃ、お菓子、お子様メニュー等そろえております。是非ご家族でココイチの美味しいカレーを味わって下さい。\n",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -4849,12 +4849,12 @@
     "pr_message": "クレープの移動販売車です。ボリュームたっぷりだけどアイスのコーンに入ってるので食べやすいクレープです!",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -4980,24 +4980,24 @@
     "pr_message": "お庭の工事・メンテナンス〜ガーデニングSHOPを営んでおります。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "big_genre": "暮らす",
+        "genre": "健康"
       },
       {
         "big_genre": "遊ぶ",
         "genre": "公園"
       },
       {
-        "big_genre": "育てる",
-        "genre": "習い事"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
       },
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
+        "big_genre": "育てる",
+        "genre": "習い事"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -5181,15 +5181,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
         "genre": "衣類"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -6480,12 +6480,12 @@
     "pr_message": "スイーツを選ぶように軽自動車を選ぼう!<br>\nかわいくてカラフルな軽自動車を常時60台以上展示。K-mallならワンストップでいろんなメーカーのクルマを比較できます。また、整備工場併設だからアフターメンテナンスも安心。オイル交換から車検まで何でもお任せください。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -6787,12 +6787,12 @@
     "pr_message": "書店、ビデオ・DVD・CDレンタル、インターネットカフェ、カラオケ、ビリヤード、ダーツを有する大型アミューズメント複合店です。24時間営業・年中無休ですので、ご家族全員でそれぞれの楽しい時間をお過ごしいただけます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
         "big_genre": "遊ぶ",
         "genre": "アミューズメント"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -7099,16 +7099,16 @@
     "pr_message": "加賀市で車屋をさせていただいてるKK-NETと申します。\n地域に愛されるお店を目指しております。\n車の事なら何でもご相談に乗りますので、お任せください!\nガソリンスタンドもやってますので、是非1度ご来店くださいませ。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "big_genre": "買う",
+        "genre": "自動車"
       },
       {
         "big_genre": "暮らす",
         "genre": "保険"
       },
       {
-        "big_genre": "買う",
-        "genre": "自動車"
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -7322,12 +7322,12 @@
     "pr_message": "ビーガンカフェ。オーガニックサラダランチ、グルテンフリーメニューあり。\n小麦粉、白砂糖、動物性食品不使用の米粉マフィンも毎日数種類焼立にてご用意。\nアレルギー対応の「ルミエール」デコレーションケーキもご予約受付中??\nぜひ、お電話にてご予約を!",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -7664,11 +7664,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "イタリアン・フレンチ"
       }
     ],
     "is_baby_station": false,
@@ -7751,11 +7751,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "居酒屋"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "居酒屋"
       },
       {
         "big_genre": "食べる",
@@ -7763,7 +7763,7 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -7850,12 +7850,12 @@
     "pr_message": "子供から大人まで幅広い品揃えをしております。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -8210,12 +8210,12 @@
     "pr_message": "2歳からダンスレッスン可能、イベントや発表会にも参加できます。ダンスを通じて体力づくり、強い精神力、社会性を身に付けましょう。各クラス500円で体験レッスンできます。お気軽に参加下さい。\n",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -8869,12 +8869,12 @@
     "pr_message": "水泳技術の習得はもちろん、お子様のココロとカラダの成長もしっかりとサポートさせて頂きます。初めての習い事は、ぜひ当スクールにおまかせ下さい!",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -9317,12 +9317,12 @@
     "pr_message": "α floorでは、ココロとカラダの健康を応援すべく、レッスン600円で気軽に受講いただけます!託児も承っておりますので、どなた様でもご利用頂けます!多様なプログラムからあなただけのレッスンを!!",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": true,
@@ -9410,11 +9410,11 @@
     "genres": [
       {
         "big_genre": "育てる",
-        "genre": "つどいの広場・子育て支援センター"
+        "genre": "幼稚園・保育所"
       },
       {
         "big_genre": "育てる",
-        "genre": "幼稚園・保育所"
+        "genre": "つどいの広場・子育て支援センター"
       }
     ],
     "is_baby_station": true,
@@ -9458,11 +9458,11 @@
     "genres": [
       {
         "big_genre": "育てる",
-        "genre": "つどいの広場・子育て支援センター"
+        "genre": "幼稚園・保育所"
       },
       {
         "big_genre": "育てる",
-        "genre": "幼稚園・保育所"
+        "genre": "つどいの広場・子育て支援センター"
       }
     ],
     "is_baby_station": true,
@@ -9725,12 +9725,12 @@
     "pr_message": "金沢香林坊、広坂通りにある小さなおしるこ専門店。定番の暖かいおしるこ。おぜんざいから、ちょっと珍しい抹茶のおしるこ、夏には冷やししるこや期間限定の白いおしるこまで、幅広いあずき・あんこメニューを取り揃えてお待ちしております。絵本コーナー有り。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -9774,11 +9774,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       },
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       }
     ],
     "is_baby_station": false,
@@ -9822,7 +9822,7 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "遊ぶ",
@@ -9830,11 +9830,11 @@
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "アミューズメント"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "アミューズメント"
+        "genre": "宿泊・温泉"
       }
     ],
     "is_baby_station": false,
@@ -10058,11 +10058,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -10414,11 +10414,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -11037,12 +11037,12 @@
     "pr_message": "季節を感じ、ゆったりしていただけるよう心がけています。中島名産の御菓子(小豆は薪で炊いています)をどうぞ!",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -11086,11 +11086,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "焼肉・鉄板焼き"
       },
       {
         "big_genre": "食べる",
-        "genre": "焼肉・鉄板焼き"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -11273,12 +11273,12 @@
     "pr_message": "彩匠の店内はガラス張りになっており、工場内を見渡すことができます。また、家族で楽しめる手焼き煎餅体験ができます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "遊ぶ",
         "genre": "体験・観光スポット"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -11461,12 +11461,12 @@
         "genre": "洋食・西洋料理"
       },
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -11513,12 +11513,12 @@
         "genre": "洋食・西洋料理"
       },
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -11565,12 +11565,12 @@
         "genre": "洋食・西洋料理"
       },
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -12675,12 +12675,12 @@
     "pr_message": "子どもから子育て世代、高齢者までが大家族のように集い、交流が生まれるよう食育ランチをはじめ、様々なイベント等を開催しています。",
     "genres": [
       {
-        "big_genre": "育てる",
-        "genre": "習い事"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "育てる",
+        "genre": "習い事"
       }
     ],
     "is_baby_station": false,
@@ -12948,11 +12948,11 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "焼肉・鉄板焼き"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "焼肉・鉄板焼き"
       }
     ],
     "is_baby_station": false,
@@ -12996,11 +12996,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "焼肉・鉄板焼き"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "焼肉・鉄板焼き"
       }
     ],
     "is_baby_station": false,
@@ -13176,11 +13176,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "居酒屋"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "居酒屋"
       }
     ],
     "is_baby_station": false,
@@ -13224,15 +13224,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
         "genre": "衣類"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -13803,12 +13803,12 @@
     "pr_message": "「焼きたて」をコンセプトに、お子様にも優しい「添加物不使用」のベーグル専門店。\n副材料もできる限り「手づくり」にこだわっています。\n卵や乳を使用していないベーグルも多数!!「ふわふわでもっちり!」の絶妙な食感がやみつきの美味しさ。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -14159,12 +14159,12 @@
     "pr_message": "毎日、出来たこの生菓子を季節に応じて店頭に出しています。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -14340,11 +14340,11 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "公園"
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "公園"
       },
       {
         "big_genre": "遊ぶ",
@@ -15892,7 +15892,7 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "カレー"
       },
       {
         "big_genre": "買う",
@@ -15903,12 +15903,12 @@
         "genre": "体験・観光スポット"
       },
       {
-        "big_genre": "買う",
-        "genre": "食品"
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       },
       {
-        "big_genre": "食べる",
-        "genre": "カレー"
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -15952,11 +15952,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
@@ -16179,12 +16179,12 @@
     "pr_message": "ばらずしの素材と味にこだわった、おいしいお寿司を手軽な価格でご提供いたします。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -16315,16 +16315,16 @@
     "pr_message": "契約農家さんからの完全無農薬の玄米や、地元の美味しい食材を使用しています。\nミルク王国内灘の、グレードの高い牛乳を使った、内灘ビーチソフトやスィーツも絶品です。\n",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -16714,12 +16714,12 @@
     "pr_message": "しあわせお菓子ふらんどーるはおいしい笑顔と豊かな心を創造します。地域に根付いたお菓子作り、おいしさと季節感あふれるお菓子作りを通して、家庭や職場に幸せの輪を広げていきたいと願っております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -16762,12 +16762,12 @@
     "pr_message": "しあわせお菓子ふらんどーるはおいしい笑顔と豊かな心を創造します。地域に根付いたお菓子作り、おいしさと季節感あふれるお菓子作りを通して、家庭や職場に幸せの輪を広げていきたいと願っております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -16810,12 +16810,12 @@
     "pr_message": "しあわせお菓子ふらんどーるはおいしい笑顔と豊かな心を創造します。地域に根付いたお菓子作り、おいしさと季節感あふれるお菓子作りを通して、家庭や職場に幸せの輪を広げていきたいと願っております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -16946,12 +16946,12 @@
     "pr_message": "新本・文具学用品のほか中古本の買取と販売もやっています。また、当店の2階ではヤマハ音楽教室・パソコン教室を行っており、学ぶことの喜びをご提供出来る様に努力しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -17318,12 +17318,12 @@
     "pr_message": "まぐろやでは、とびっきり新鮮なネタとうまいシャリでお客様をお待ちいたしております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -17366,12 +17366,12 @@
     "pr_message": "まぐろやでは、とびっきり新鮮なネタとうまいシャリでお客様をお待ちいたしております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -17414,12 +17414,12 @@
     "pr_message": "まぐろやでは、とびっきり新鮮なネタとうまいシャリでお客様をお待ちいたしております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -17595,11 +17595,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       },
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       }
     ],
     "is_baby_station": false,
@@ -17813,16 +17813,16 @@
     "pr_message": "自家栽培のお米、野菜、大豆、小豆とそれを加工したお餅、漬物、おむすび、和菓子の直売を行っています。安全安心にこだわり、新鮮で美味しいものを提供できるよう心がけています。子供たちに食べさせて安心な食について取り組んでいきたいと考えています。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -17866,15 +17866,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -18273,15 +18273,15 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "居酒屋"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "居酒屋"
       }
     ],
     "is_baby_station": false,
@@ -18457,11 +18457,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "居酒屋"
+        "genre": "焼肉・鉄板焼き"
       },
       {
         "big_genre": "食べる",
-        "genre": "焼肉・鉄板焼き"
+        "genre": "居酒屋"
       }
     ],
     "is_baby_station": false,
@@ -18989,19 +18989,19 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "中華・ラーメン"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "中華・ラーメン"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -19695,15 +19695,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -19751,15 +19751,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -20071,15 +20071,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -20127,15 +20127,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -20183,15 +20183,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -20239,15 +20239,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -20295,15 +20295,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -20574,12 +20574,12 @@
     "pr_message": "石窯で焼きあげる、素材を活かしたベーシックなパンからオリジナル創作パンまで取り揃えております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -21837,19 +21837,19 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -21893,19 +21893,19 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -22037,19 +22037,19 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -22093,19 +22093,19 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -22149,19 +22149,19 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -22205,19 +22205,19 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -22261,19 +22261,19 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -22317,19 +22317,19 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -22372,20 +22372,20 @@
     "pr_message": "イオンは地域に根ざすお店として「安全・安心」「鮮度」「地産地消」「楽しさ」をコンセプトに豊富に品揃えしてまいります。また「環境保全」の取り組みでは各自治体とタイアップした植樹の活動や、「買物袋持参運動」を推進しております。さらに社会貢献活動",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "学習用品"
+      },
+      {
         "big_genre": "遊ぶ",
         "genre": "アミューズメント"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -22477,7 +22477,7 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
@@ -22485,11 +22485,11 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "カレー"
       },
       {
         "big_genre": "食べる",
-        "genre": "カレー"
+        "genre": "イタリアン・フレンチ"
       }
     ],
     "is_baby_station": false,
@@ -23194,11 +23194,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
@@ -23606,15 +23606,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -23661,8 +23661,8 @@
     "pr_message": "2月9日木曜日に金沢直江にオープン致します。心のこもった接客・わくわくする品揃えで、お客様をお待ちしております。ぜひご利用ください。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "衣類"
+        "big_genre": "暮らす",
+        "genre": "健康"
       },
       {
         "big_genre": "買う",
@@ -23673,8 +23673,8 @@
         "genre": "日用品"
       },
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -23897,11 +23897,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -24913,11 +24913,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       },
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       }
     ],
     "is_baby_station": false,
@@ -25553,11 +25553,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "洋食・西洋料理"
       }
     ],
     "is_baby_station": false,
@@ -25820,12 +25820,12 @@
     "pr_message": "ご家族でも安心の座敷ルーム完備!!50種類以上のフードメニューや100種類以上のドリンクメニューを揃えています。 夜は併設した居酒屋から焼鳥・刺身・寿司などがオーダーできます。子供会やスポ少の打上げに最適!!",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
-      },
-      {
         "big_genre": "遊ぶ",
         "genre": "アミューズメント"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": true,
@@ -26176,12 +26176,12 @@
     "pr_message": "13才〜88才の方迄、女性専用、通常フィットネスだと1時間30分かかる運動が、たった30分で同じ効果が得られます。皆が元気で楽しく、明るく運動が出来る場所です。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -26307,12 +26307,12 @@
     "pr_message": "13才〜88才の方迄、女性専用、通常フィットネスだと1時間30分かかる運動が、たった30分で同じ効果が得られます。皆が元気で楽しく、明るく運動が出来る場所です。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -26355,12 +26355,12 @@
     "pr_message": "13才〜88才の方迄、女性専用、通常フィットネスだと1時間30分かかる運動が、たった30分で同じ効果が得られます。皆が元気で楽しく、明るく運動が出来る場所です。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -26403,12 +26403,12 @@
     "pr_message": "13才〜88才の方迄、女性専用、通常フィットネスだと1時間30分かかる運動が、たった30分で同じ効果が得られます。皆が元気で楽しく、明るく運動が出来る場所です。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -26539,12 +26539,12 @@
     "pr_message": "「Caro(カーロ)」とは、イタリア語で「愛する」「大切な」という意味。大切なおクルマを末永く愛していただけるよう、クルマのことならオイル交換から洗車・コーティングなどの日々のメンテナンスから、車検・整備まで何でもお応えするトータルカーケアショップです。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -26587,12 +26587,12 @@
     "pr_message": "タイヤ交換・保管、オイル交換、洗車・コーティングなど幅広くカーライフをサポートします。車検は受付のみとなりますが、姉妹店のカーロ増泉店及びK-mall桜田店で実施しています!",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -26635,12 +26635,12 @@
     "pr_message": "カーロ泉野店は「オイル交換」と「タイヤ交換」の専門店です。さらに、最新鋭の洗車機2機を導入した「セルフ洗車場」完備!",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -30777,16 +30777,16 @@
     "pr_message": "明るくゆったりした建物で、のんびり・穏やかに楽しく過ごして頂けます。交通の便もよい利便性があり、居宅介護支援・ショートステイも併設し緊急時にも対応しやすい。利用者様を尊重した安全・安心の介護をさせて頂きます。",
     "genres": [
       {
+        "big_genre": "遊ぶ",
+        "genre": "宿泊・温泉"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "暮らす",
         "genre": "保険"
-      },
-      {
-        "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
       }
     ],
     "is_baby_station": false,
@@ -30873,12 +30873,12 @@
     "pr_message": "ミルティーユでは、大切なお子様の年に一度のお誕生日がステキな、思い出に残る一日となりますよう協力・支援致します。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31009,12 +31009,12 @@
     "pr_message": "厳選した素材で作る安心で美味しいケーキをお召し上がり下さい。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31057,12 +31057,12 @@
     "pr_message": "地元素材のケーキ、ギフト、記念日のデコレーション、季節ごとの限定菓子、米粉コンテストの優勝賞品(じわもん米粉の夢ロール・稲穂の恵)、五郎島金時芋、いちじく、能登大納言小豆、栗、ルビーロマン、加賀棒茶、柿、梅、塩など使った商品を揃えています。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31106,15 +31106,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31162,15 +31162,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31218,19 +31218,19 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -31274,15 +31274,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31330,15 +31330,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31386,15 +31386,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31442,15 +31442,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31498,15 +31498,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31554,15 +31554,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31610,15 +31610,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31666,15 +31666,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31722,15 +31722,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31778,15 +31778,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -31834,15 +31834,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -33361,12 +33361,12 @@
     "pr_message": "作り立てのパン・ケーキ・サンドイッチが豊富にそろっています。店内では全115席の広い飲食スペースがあり、お子様連れにも安心です。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -33937,12 +33937,12 @@
     "pr_message": "今話題の金沢発祥のカレーです。熟成された濃厚なルーが特徴で、一度食べたらクセになる味です。食通の多い金沢市民から長い間愛されている金沢カレーをご賞味ください。\nお土産にも喜ばれるレトルトルーも販売しております!",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -34477,12 +34477,12 @@
     "pr_message": "アイスクリーム専門店です。毎日違うアイスクリームを31種類お楽しみいただいております。その都度特典が変わります。お楽しみに!!",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -36450,12 +36450,12 @@
     "pr_message": "作り立てのパン・ケーキ・サンドイッチ、そして、おいしいコーヒーが自慢の店内には飲食スペースを併設しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -36752,12 +36752,12 @@
     "pr_message": "ご搭乗までの待ち時間に憩いのひとときを・・・ 豊富な種類のドリンクバーが人気です。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -36801,11 +36801,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "中華・ラーメン"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "中華・ラーメン"
       }
     ],
     "is_baby_station": false,
@@ -38229,15 +38229,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -39046,8 +39046,40 @@
     "pr_message": "子育て真っ只中の夫婦が、地産地店、こだわり素材で作る「うちたて、できたて」の自家製麺 白山饂飩を楽しめるうどん屋です。保存料は使わず、お子様にも好まれるやさしい味で仕上げることに心がけています。ぜひご家族の大切な時間を当方でお過ごしくださいませ。キッズメニュー、離乳食うどんもご用意あります!",
     "genres": [
       {
+        "big_genre": "暮らす",
+        "genre": "健康"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "写真"
+      },
+      {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "カレー"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "居酒屋"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "ファミレス・ファストフード"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "情報・通信"
+      },
+      {
+        "big_genre": "育てる",
+        "genre": "習い事"
       },
       {
         "big_genre": "遊ぶ",
@@ -39055,27 +39087,7 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "居酒屋"
-      },
-      {
-        "big_genre": "暮らす",
-        "genre": "情報・通信"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "暮らす",
-        "genre": "写真"
-      },
-      {
-        "big_genre": "育てる",
-        "genre": "習い事"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
@@ -39083,23 +39095,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
-      },
-      {
-        "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "カレー"
       }
     ],
     "is_baby_station": true,
@@ -39186,12 +39186,12 @@
     "pr_message": "店の前面には世界から選びすぐったコーヒー豆を中心にコーヒー関連商品やギフトなどを豊富に展示販売しています。奧には落ち着いた雰囲気のカウンターで本格サイフォンコーヒーやケーキ等がお手軽価格で楽しめます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -39234,12 +39234,12 @@
     "pr_message": "コーヒー豆や関連商品、ギフトなどを豊富に取り揃えています。喫茶カウンターでは、注文に応じその都度淹れるドリップコーヒーが楽しめます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -39282,12 +39282,12 @@
     "pr_message": "コーヒー豆や関連商品、ギフト等を豊富に取り揃えています。喫茶カウンターでは、注文に応じその都度淹れるドリップコーヒーが楽しめます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -39330,12 +39330,12 @@
     "pr_message": "コーヒー豆やコーヒー関連商品、ギフト等を豊富に取り揃えています。喫茶カウンターでは、注文に応じてその都度淹れるサイフォンコーヒーが楽しめる、アットホームな雰囲気のお店です。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -39378,12 +39378,12 @@
     "pr_message": "17度前後に管理されたショーケースで品質を一定に保ちながらコーヒー豆を販売しています。当社では、この店にしかないコーヒーアイスクリームをはじめ、コーヒー、各種ドリンクメニューのテイクアウトもしています。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -39696,26 +39696,6 @@
     "pr_message": "ご家族連れで天然温泉の大浴場と日本海の海の幸をふんだんに使った美味しいお食事をお楽しみ下さい。",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "アミューズメント"
-      },
-      {
-        "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "居酒屋"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "中華・ラーメン"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
-      },
-      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
@@ -39725,11 +39705,31 @@
       },
       {
         "big_genre": "食べる",
+        "genre": "カレー"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "焼肉・鉄板焼き"
       },
       {
         "big_genre": "食べる",
-        "genre": "カレー"
+        "genre": "居酒屋"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "宿泊・温泉"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "中華・ラーメン"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "アミューズメント"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": true,
@@ -39821,15 +39821,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
         "genre": "衣類"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": true,
@@ -42500,11 +42500,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -44283,15 +44283,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -44339,11 +44339,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -44430,12 +44430,12 @@
     "pr_message": "”お店はお客様のためにある”無添加生地使用、毎日食べるものだから美味しくて身体に良いものを、それが「ビロン」のこだわりです。テイクアウトはもちろん、カフェも楽しめます。爽やかな風と緑に囲まれたテラスで、パンやケーキと一緒にティータイム",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -44478,12 +44478,12 @@
     "pr_message": "”お店はお客様のためにある”無添加生地使用、毎日食べるものだから美味しくて身体に良いものを、それが「ビロン」のこだわりです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -44571,11 +44571,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -44842,16 +44842,16 @@
     "pr_message": "フィットネスガレージななおでは、子供スイミング・体操・ヒップホップダンス教室や夏にはスノーケリング教室、走りを速くする駆けっ子教室などお子様に沢山の「成功体験」や「自信」を積み重ねていただける教室をモットーに営業しております。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
       },
       {
         "big_genre": "遊ぶ",
         "genre": "体験・観光スポット"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -44894,12 +44894,12 @@
     "pr_message": "子どもたちの「できた!!」を増やし、可能性を引き出します!!「水なれ」から「4泳法」まで楽しく習得していきます。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -44942,12 +44942,12 @@
     "pr_message": "子どもたちの「できた!!」を増やし、可能性を引き出します!!「水なれ」から「4泳法」まで楽しく習得していきます。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -44990,12 +44990,12 @@
     "pr_message": "子どもたちの「できた!!」を増やし、可能性を引き出します!!「水なれ」から「4泳法」まで楽しく習得していきます。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -45038,12 +45038,12 @@
     "pr_message": "子ども達の「できた!!」を増やし、可能性を引き出します!!「水になれ」から「4泳法」まで楽しく習得していきます。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -45749,12 +45749,12 @@
     "pr_message": "手づくりのおいしさを大切に。お子様からお年寄りまで喜んでいただける優しい味のお菓子。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -45885,16 +45885,16 @@
     "pr_message": "フルーツ平野屋 高尾台本店では、『新鮮なフルーツで、健康と満足をお届けいたします!!』をモットーにしています。 これは、おいしくて安全なフルーツの品揃えに、こだわりをもっているからです。 お祝い・内祝いほかフルーツギフトは、お任せくださいませ。\nフルーツアイスやフルーツジェラートもありますよ!",
     "genres": [
       {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
+      },
+      {
         "big_genre": "暮らす",
         "genre": "健康"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -46070,11 +46070,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -46117,16 +46117,16 @@
     "pr_message": "お客様一人一人に合った漢方をご提案させていただきます。不妊症、婦人病、皮膚病(アトピー、ニキビ、慢性の湿疹、掌蹠膿疱症)など様々な症状にもお気軽にご相談ください!!",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "病院"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "暮らす",
         "genre": "健康"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "病院"
       }
     ],
     "is_baby_station": false,
@@ -47670,15 +47670,15 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "イタリアン・フレンチ"
       }
     ],
     "is_baby_station": false,
@@ -47854,15 +47854,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -47910,15 +47910,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -47966,15 +47966,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -48022,15 +48022,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -48161,11 +48161,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -48341,11 +48341,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48389,11 +48389,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48437,11 +48437,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48529,11 +48529,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48577,11 +48577,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48625,11 +48625,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48673,11 +48673,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48721,11 +48721,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48769,11 +48769,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48817,11 +48817,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48865,11 +48865,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48913,11 +48913,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -48961,11 +48961,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49009,11 +49009,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49057,11 +49057,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49105,11 +49105,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49153,11 +49153,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49201,11 +49201,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49249,11 +49249,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49297,11 +49297,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49345,11 +49345,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49393,11 +49393,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49441,11 +49441,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49489,11 +49489,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49537,11 +49537,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49585,11 +49585,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49633,11 +49633,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49681,11 +49681,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49729,11 +49729,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -49777,11 +49777,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -50599,12 +50599,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50647,12 +50647,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50695,12 +50695,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50743,16 +50743,16 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
+      },
+      {
         "big_genre": "買う",
         "genre": "食品"
       },
       {
         "big_genre": "食べる",
         "genre": "ファミレス・ファストフード"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -50795,12 +50795,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50843,12 +50843,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様のご来店をこころよりお待ちしております。\n",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50891,12 +50891,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50939,12 +50939,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -50987,12 +50987,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -51035,12 +51035,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -51083,12 +51083,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -51131,12 +51131,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -51179,12 +51179,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -51227,12 +51227,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -51314,12 +51314,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -51362,12 +51362,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -51410,12 +51410,12 @@
     "pr_message": "できたてのおいしいドーナツを豊富に揃えて、皆様の来店を心よりお待ちしております。 軽い食事に飲茶も用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -51806,7 +51806,7 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "買う",
@@ -51814,7 +51814,7 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "イタリアン・フレンチ"
       }
     ],
     "is_baby_station": false,
@@ -51950,11 +51950,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       },
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       }
     ],
     "is_baby_station": false,
@@ -53626,11 +53626,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "イタリアン・フレンチ"
       }
     ],
     "is_baby_station": false,
@@ -53922,12 +53922,12 @@
     "pr_message": "中古タイヤホイールの買取販売専門店です。ご自宅に眠っているタイヤホイールを是非お持ち下さい。どこよりも高く買い取ります。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "交通・燃料"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "交通・燃料"
       }
     ],
     "is_baby_station": false,
@@ -54053,12 +54053,12 @@
     "pr_message": "パティシエ辻口博啓の地元七尾市にあるミュージアム&カフェ。地元素材をふんだんに使用した石川でしか味わう事ができないオリジナルスイーツを能登の海を一望しながら楽しむことができます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -54101,12 +54101,12 @@
     "pr_message": "パティシエ辻口博啓の石川県立美術館内にあるパティスリー&カフェ。地元素材を使った石川でしか味わう事のできないオリジナルスイーツや、玉露茶とデザートのコースが本多の森を一望しながら楽しむ事ができます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -54150,11 +54150,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -54198,19 +54198,19 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
-      },
-      {
-        "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
+        "genre": "洋食・西洋料理"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "カレー"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -54349,12 +54349,12 @@
         "genre": "体験・観光スポット"
       },
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -55017,12 +55017,12 @@
     "pr_message": "七尾近郊はもちろん、輪島・珠洲方面のお客様にもたくさんご利用いただいております。マツダの新車、道路をはさんでの中古車展示場と、沢山のお車を展示してあります。16名のスタッフが皆様のご来店を楽しみにしています。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "保険"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "保険"
       }
     ],
     "is_baby_station": false,
@@ -55065,12 +55065,12 @@
     "pr_message": "北陸マツダの加賀地区の拠点として加賀市、小松市、能美市をカバーしています。店内ショールームにはキッズスペースが有り、安心してお子様を遊ばせることができます。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "保険"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "保険"
       }
     ],
     "is_baby_station": false,
@@ -55113,12 +55113,12 @@
     "pr_message": "北陸自動車道西I/Cそば。隣にはテレビ金沢、8号線を渡るとテルメ金沢があります。店長、新車スタッフ3名、中古車スタッフ2名、サービススタッフ6名、事務1名のアットホームなお店です。スタッフ全員気さくで親しみやすいお店を目指しております。お車のことはもちろん整備や保険、何でもお気軽にご相談ください。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "保険"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "保険"
       }
     ],
     "is_baby_station": false,
@@ -55161,12 +55161,12 @@
     "pr_message": "平成29年1月より新ショールームとなり、ソウルレッッドで統一された展示車と待ち時間を快適にすごしていただくためのラウンジスペースがございます。ぜひマツダ車を体感しにご来店下さい。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "保険"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "保険"
       }
     ],
     "is_baby_station": false,
@@ -55209,12 +55209,12 @@
     "pr_message": "金沢駅から徒歩5分と金沢中心部に位置し、充実したサービス工場を備えており、初めて御来店して頂くお客様にも、お気軽にお越しいただけます。スタッフ一同心からお待ちいたしております。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "保険"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "保険"
       }
     ],
     "is_baby_station": false,
@@ -55437,20 +55437,20 @@
         "genre": "公園"
       },
       {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "big_genre": "遊ぶ",
+        "genre": "宿泊・温泉"
       },
       {
         "big_genre": "遊ぶ",
         "genre": "体験・観光スポット"
       },
       {
-        "big_genre": "買う",
-        "genre": "食品"
+        "big_genre": "食べる",
+        "genre": "和食・寿司"
       },
       {
-        "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -55980,12 +55980,12 @@
     "pr_message": "",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "宿泊・温泉"
       }
     ],
     "is_baby_station": true,
@@ -56515,12 +56515,12 @@
     "pr_message": "当店の和菓子、赤飯など原料にこだわりを持ち、手作りの品を販売しております。 特にもち米を使った餅、赤飯は、自信を持って販売しています。是非一度、御賞味してはいかがでしょうか!",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -57144,11 +57144,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       },
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       }
     ],
     "is_baby_station": false,
@@ -57675,12 +57675,12 @@
     "pr_message": "当店は契約栽培でつくられた顔の見える「厳選した品質」のお米を使用し、そこにお米マイスターの匠の技で丹精込めて精米しております。お子様の健やかな成長に安心、安全な食生活をお届けします。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -58515,12 +58515,12 @@
     "pr_message": "入浴、お食事、ご休憩、運動器具のご利用可。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "遊ぶ",
         "genre": "宿泊・温泉"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -58563,16 +58563,16 @@
     "pr_message": "マクロビオティックという、厳正な自然食に完全対応しているレストランです。店内の水道水を浄活水し、自家栽培の野菜を中心に厳選された食材のみを使い、卵・肉・魚・ミルクなど動物性の食材、単糖類の多い砂糖や不自然な添加物は、一切使用していません。",
     "genres": [
       {
+        "big_genre": "暮らす",
+        "genre": "健康"
+      },
+      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
         "genre": "和食・寿司"
-      },
-      {
-        "big_genre": "暮らす",
-        "genre": "健康"
       },
       {
         "big_genre": "買う",
@@ -59020,15 +59020,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59072,15 +59072,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59124,15 +59124,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59176,15 +59176,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59228,15 +59228,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59280,15 +59280,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59332,15 +59332,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59384,15 +59384,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59436,15 +59436,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59488,15 +59488,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59540,15 +59540,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59592,15 +59592,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59644,15 +59644,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59696,15 +59696,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59748,15 +59748,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59800,15 +59800,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59852,15 +59852,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59904,15 +59904,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -59956,15 +59956,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -60008,15 +60008,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -60060,15 +60060,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -60112,15 +60112,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -60164,15 +60164,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -60216,15 +60216,15 @@
     "genres": [
       {
         "big_genre": "食べる",
+        "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "食べる",
         "genre": "中華・ラーメン"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -60307,11 +60307,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       },
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       }
     ],
     "is_baby_station": false,
@@ -60354,16 +60354,16 @@
     "pr_message": "自家栽培のお米、野菜、大豆、小豆とそれを加工したお餅、漬物、おむすび、和菓子の直売を行っています。安全安心にこだわり、新鮮で美味しいものを提供できるよう心がけています。子供たちに食べさせて安心な食について取り組んでいきたいと考えています。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -60801,8 +60801,8 @@
         "genre": "公園"
       },
       {
-        "big_genre": "買う",
-        "genre": "衣類"
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "買う",
@@ -60814,11 +60814,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -60900,20 +60900,20 @@
     "pr_message": "一年を通じて、旬のフルーツ狩りが楽しめます。バーベキューハウスでのお食事、ショッピングもご利用下さい。",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       },
       {
-        "big_genre": "買う",
-        "genre": "食品"
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "食べる",
         "genre": "焼肉・鉄板焼き"
       },
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -61000,12 +61000,12 @@
     "pr_message": "子どもたちの「できた!!」を増やし、可能性を引き出します!!「水なれ」から「4泳法」まで楽しく習得していきます。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -61180,12 +61180,12 @@
     "pr_message": "丸福では、四季折々の暮らしに息づく生菓子・餅・赤飯を製造、販売しております。お子様の誕生から入園・入学・卒業など節目の折のお喜びの品としてもご好評をいただいております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -61272,12 +61272,12 @@
     "pr_message": "小松駅前から徒歩5分 お店ではご試食を用意して皆様のご来店をお待ちしております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -62196,6 +62196,14 @@
     "genres": [
       {
         "big_genre": "暮らす",
+        "genre": "健康"
+      },
+      {
+        "big_genre": "育てる",
+        "genre": "つどいの広場・子育て支援センター"
+      },
+      {
+        "big_genre": "暮らす",
         "genre": "保険"
       },
       {
@@ -62203,20 +62211,12 @@
         "genre": "情報・通信"
       },
       {
-        "big_genre": "育てる",
-        "genre": "つどいの広場・子育て支援センター"
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "育てる",
         "genre": "習い事"
-      },
-      {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -65924,7 +65924,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "洋食・西洋料理"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カレー"
       },
       {
         "big_genre": "遊ぶ",
@@ -65932,15 +65936,11 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "カレー"
       }
     ],
     "is_baby_station": false,
@@ -65984,11 +65984,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "居酒屋"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "居酒屋"
       }
     ],
     "is_baby_station": false,
@@ -66076,11 +66076,11 @@
     "genres": [
       {
         "big_genre": "育てる",
-        "genre": "つどいの広場・子育て支援センター"
+        "genre": "幼稚園・保育所"
       },
       {
         "big_genre": "育てる",
-        "genre": "幼稚園・保育所"
+        "genre": "つどいの広場・子育て支援センター"
       }
     ],
     "is_baby_station": false,
@@ -66211,12 +66211,12 @@
     "pr_message": "四季折々の能登の和洋菓子を多数取り揃えております。大切なおもてなしや、ご贈答にぜひご利用くださいませ。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -66524,11 +66524,11 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "アミューズメント"
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "アミューズメント"
       }
     ],
     "is_baby_station": false,
@@ -67583,12 +67583,12 @@
     "pr_message": "モーニング・ランチ・手作りケーキなどをリーズナブルにお召し上がり頂けます。白を基調としたアットホームな店内でごゆっくりお過ごし下さい。ご家族連れは土日のモーニングがオススメ!どうぞお気軽にお越しくださいませ。アイシングクッキー教室など様々なイベントも開催しています。facebookをチェックしてね!",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "日用品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "日用品"
       }
     ],
     "is_baby_station": false,
@@ -67631,12 +67631,12 @@
     "pr_message": "県庁19階に登って、金沢の街を一望できます。白山や、夜景なども楽しめます。九谷焼、輪島塗りのカップで美味しいコーヒーが飲めます。季節によっていろんな味が楽しめるソフトクリームも美味しいです。",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "体験・観光スポット"
       }
     ],
     "is_baby_station": false,
@@ -68164,11 +68164,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -68519,12 +68519,16 @@
     "pr_message": "大和友の会「カーネーションサークル」では月々1口2,000円のお積立で12回の満期時には2,000円のボーナス券をプラスした26,000円のお買物券とお引き換えいたします。各種施設ご優待利用など特典が満載です。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "big_genre": "買う",
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
@@ -68532,11 +68536,7 @@
       },
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -69031,16 +69031,16 @@
     "pr_message": "大杉屋ふとん店では、羽毛布団の丸洗い、打ち直しリフォーム、ふんわり除菌サービスを始めました。最近、『汗で汚くなってきた』、『ちょっと臭いがしてきた』、『羽毛が吹き出してきた』といった羽毛布団でお困りの方は是非一度無料で診断させて頂きます。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "清掃・クリーニング"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "暮らす",
         "genre": "健康"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "清掃・クリーニング"
       }
     ],
     "is_baby_station": false,
@@ -69215,12 +69215,12 @@
     "pr_message": "\nお肉屋さんのコロッケや持ち帰る時間にトンカツなどの作り置きも忙しいお母さんに好評です。\nバーベキューパーティー用のセットも好評受付中!お気軽にどうぞ!",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "焼肉・鉄板焼き"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -73972,11 +73972,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -74559,12 +74559,12 @@
         "genre": "日用品"
       },
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -74739,12 +74739,12 @@
     "pr_message": "森をイメージした開放的な空間でごゆっくりお過ごしください。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -74827,11 +74827,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
@@ -74879,11 +74879,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
@@ -74930,12 +74930,12 @@
     "pr_message": "カウンター席、個室、大部屋があります。料理、寿し等1品からでもオーダー出来ます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -75031,11 +75031,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -76151,11 +76151,11 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "公園"
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "公園"
       }
     ],
     "is_baby_station": false,
@@ -76287,11 +76287,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       },
       {
         "big_genre": "買う",
@@ -76339,15 +76339,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -76395,15 +76395,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -76451,15 +76451,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -76507,15 +76507,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -76563,15 +76563,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -76619,11 +76619,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -76711,11 +76711,11 @@
     "genres": [
       {
         "big_genre": "育てる",
-        "genre": "つどいの広場・子育て支援センター"
+        "genre": "幼稚園・保育所"
       },
       {
         "big_genre": "育てる",
-        "genre": "幼稚園・保育所"
+        "genre": "つどいの広場・子育て支援センター"
       }
     ],
     "is_baby_station": true,
@@ -76759,11 +76759,11 @@
     "genres": [
       {
         "big_genre": "育てる",
-        "genre": "つどいの広場・子育て支援センター"
+        "genre": "幼稚園・保育所"
       },
       {
         "big_genre": "育てる",
-        "genre": "幼稚園・保育所"
+        "genre": "つどいの広場・子育て支援センター"
       }
     ],
     "is_baby_station": false,
@@ -77162,20 +77162,20 @@
     "pr_message": "名物加賀福などの箱菓子の他にも、日常で召し上がって頂けるバラ菓子も250種以上販売。お子様向けの商品を集めたキッズコーナーも充実し、お菓子作り体験(日、祝)は子どもから大人まで楽しめます。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "遊ぶ",
         "genre": "体験・観光スポット"
       },
       {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "イタリアン・フレンチ"
       }
     ],
     "is_baby_station": false,
@@ -77218,12 +77218,12 @@
     "pr_message": "「徳光のうどん」で親しまれている伝統の味を、開店以来守り続けております。ほっこり優しい味のうどんを、ぜひ、ご家族で食べに来て下さい。各種お土産品・特産品等も取り揃え、皆様のお越しをお待ちしております。高速道路からも、一般道からもご利用になれ",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -77266,12 +77266,12 @@
     "pr_message": "「松任海浜公園」と隣接しており、夏には海水浴も楽しめます。2階には無料休憩室もありますので、ドライブの休憩や日本海を眺めに・・・ぜひ当店にお立ち寄りください。一般道からもお越しいただけます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -77805,12 +77805,12 @@
     "pr_message": "季節毎の新鮮な食材を用い、主に魚料理を提供しています。お子様料理もご用意できます。ご予約時にお申し付けください。",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "宿泊・温泉"
       }
     ],
     "is_baby_station": false,
@@ -78113,11 +78113,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "居酒屋"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "居酒屋"
       }
     ],
     "is_baby_station": false,
@@ -78536,12 +78536,12 @@
     "pr_message": "北陸最大級のマルチメディア複合書店に是非お越しください。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -78717,15 +78717,15 @@
     "genres": [
       {
         "big_genre": "暮らす",
+        "genre": "健康"
+      },
+      {
+        "big_genre": "暮らす",
         "genre": "理美容"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
-      },
-      {
-        "big_genre": "暮らす",
-        "genre": "健康"
       },
       {
         "big_genre": "買う",
@@ -78909,15 +78909,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -79148,12 +79148,12 @@
     "pr_message": "自動車の鈑金・塗装・修理・販売・車内清掃を真面目に取り組んでいる会社です。息子3人娘1人の子育て中の自分に出来ることを考えた時に、同じ子育て世代の人たちの力になりたいと思い、車に関する小さなモヤモヤを解決出来たらなと思っています。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "清掃・クリーニング"
-      },
-      {
         "big_genre": "買う",
         "genre": "自動車"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "清掃・クリーニング"
       }
     ],
     "is_baby_station": false,
@@ -79412,11 +79412,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -79504,11 +79504,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       },
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       }
     ],
     "is_baby_station": false,
@@ -80148,11 +80148,11 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "公園"
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "公園"
       },
       {
         "big_genre": "遊ぶ",
@@ -80199,12 +80199,12 @@
     "pr_message": "一包のあんころ餅がご家族のだんらんの媒介になりますように...そんな思いを込めて、お手元に届けさせて頂いております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -81137,16 +81137,16 @@
     "pr_message": "自社工場完備&高い技術で、お客様の大切なお車の安全・安心をお約束いたします。\n「クルマのことなら小松モータースにお気軽にお問合せください」",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "清掃・クリーニング"
+        "big_genre": "買う",
+        "genre": "自動車"
       },
       {
         "big_genre": "暮らす",
         "genre": "保険"
       },
       {
-        "big_genre": "買う",
-        "genre": "自動車"
+        "big_genre": "暮らす",
+        "genre": "清掃・クリーニング"
       },
       {
         "big_genre": "暮らす",
@@ -81197,16 +81197,16 @@
         "genre": "保険"
       },
       {
-        "big_genre": "買う",
-        "genre": "住宅・不動産"
+        "big_genre": "暮らす",
+        "genre": "健康"
       },
       {
         "big_genre": "暮らす",
         "genre": "情報・通信"
       },
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
+        "big_genre": "買う",
+        "genre": "住宅・不動産"
       }
     ],
     "is_baby_station": false,
@@ -81807,11 +81807,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "焼肉・鉄板焼き"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "焼肉・鉄板焼き"
       }
     ],
     "is_baby_station": false,
@@ -81854,12 +81854,12 @@
     "pr_message": "大正4年創業。創業以来、味、形、彩の三拍子揃ったお菓子作りを目指し、心をこめて季節感のある美味しいお菓子作りに励んでおります。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -83223,11 +83223,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "病院"
+        "genre": "健康"
       },
       {
         "big_genre": "暮らす",
-        "genre": "健康"
+        "genre": "病院"
       }
     ],
     "is_baby_station": false,
@@ -83271,15 +83271,15 @@
     "genres": [
       {
         "big_genre": "育てる",
+        "genre": "幼稚園・保育所"
+      },
+      {
+        "big_genre": "育てる",
         "genre": "放課後児童クラブ"
       },
       {
         "big_genre": "育てる",
         "genre": "つどいの広場・子育て支援センター"
-      },
-      {
-        "big_genre": "育てる",
-        "genre": "幼稚園・保育所"
       }
     ],
     "is_baby_station": true,
@@ -83414,12 +83414,12 @@
     "pr_message": "喫茶ではケーキセットが600円。コーヒーか紅茶いずれかの飲み物とショートケーキどれでも1個を選べるセットです。上記以外の飲み物とケーキを召し上がった場合は、ケーキが50円引きとなります。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -83462,12 +83462,12 @@
     "pr_message": "1年に1回の大切なお誕生日を、お子様の大好きな苺の生クリームケーキでぜひお祝い下さい。メッセージプレートにはご希望のお言葉をどうぞ。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -83774,12 +83774,12 @@
     "pr_message": "心のこもった洋菓子で、ティータイムを 喫茶コーナーではケーキセット600円でおたのしみいただけます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -83822,12 +83822,12 @@
     "pr_message": "開店当時から人気のチーズケーキやモザイクを始め、今はロールケーキも多数販売中。お子様に人気のキャラクターケーキは、誕生日にピッタリです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -84226,12 +84226,12 @@
     "pr_message": "“今日も笑顔で”をモットーに毎日ガンバって居ります。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "居酒屋"
-      },
-      {
         "big_genre": "買う",
         "genre": "食品"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "居酒屋"
       }
     ],
     "is_baby_station": false,
@@ -84362,16 +84362,16 @@
     "pr_message": "イオンは地域に根ざすお店として「安全・安心」「鮮度」「地産地消」「楽しさ」をコンセプトに豊富に品揃えしてまいります。また「環境保全」の取り組みでは各自治体とタイアップした植樹の活動や、「買物袋持参運動」を推進しております。さらに社会貢献活動",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
         "genre": "焼肉・鉄板焼き"
       },
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -85294,12 +85294,12 @@
     "pr_message": "世界中から厳選した生豆を多数用意し、お客様一人一人のお好みに応じご注文頂いてから焙煎いたします。又、淹れる水にまでこだわった本格ネルドリップが、明るく開放的な喫茶フロアーで楽しめます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -85342,12 +85342,12 @@
     "pr_message": "生豆を多数用意し、お客様一人一人のお好みに応じた「オリジナルコーヒー」をその場で焙煎いたします。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -85639,12 +85639,12 @@
     "pr_message": "能登半島先端のリゾートホテルです。ホテルの前に鉢ヶ崎海岸が広がり、館内には一年中泳げる温水プール、トレーニングジムも完備しています。ご宿泊の方は、隣接の鉢ヶ崎温泉「すずの湯」へ1回無料で入れます。",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "宿泊・温泉"
       }
     ],
     "is_baby_station": false,
@@ -85736,11 +85736,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -85836,10 +85836,6 @@
       },
       {
         "big_genre": "暮らす",
-        "genre": "清掃・クリーニング"
-      },
-      {
-        "big_genre": "暮らす",
         "genre": "理美容"
       },
       {
@@ -85849,6 +85845,10 @@
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "清掃・クリーニング"
       },
       {
         "big_genre": "買う",
@@ -85900,11 +85900,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -85952,11 +85952,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -86004,11 +86004,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -86056,11 +86056,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -86147,12 +86147,12 @@
     "pr_message": "素材にこだわり、四季折々の和菓子を取り揃えてお待ちしております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -86195,12 +86195,12 @@
     "pr_message": "印刷に関することなら何でもお気軽にご相談ください。記念づくりに「卒園アルバム」「自費出版」など小部数からの作成。「いしかわの恵み 収穫ゲーム」も好評発売中!",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
         "big_genre": "暮らす",
         "genre": "写真"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -87435,11 +87435,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -88670,11 +88670,11 @@
     "genres": [
       {
         "big_genre": "遊ぶ",
-        "genre": "公園"
+        "genre": "体験・観光スポット"
       },
       {
         "big_genre": "遊ぶ",
-        "genre": "体験・観光スポット"
+        "genre": "公園"
       }
     ],
     "is_baby_station": false,
@@ -91373,16 +91373,16 @@
     "pr_message": "ランチには太陽が反射するテラスのような、開放感ある雰囲気で。夜にはダウンライトがグラスを奏でるしっとりとしたイメージで。能登と加賀、石川の旬をいちばん美味しい形で楽しんでもらう。あなたの素晴らしい一日のため、アグリ・スタイルをお届けします。",
     "genres": [
       {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
         "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "食べる",
         "genre": "イタリアン・フレンチ"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "買う",
@@ -91429,12 +91429,12 @@
     "pr_message": "一期一会。数量限定の田舎そば。豆腐は明治より總持寺精進料理御用達の手造り豆腐です。おそばに小鉢が4品付くそば御膳も人気です。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -93631,12 +93631,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -93723,12 +93723,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -93771,12 +93771,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -93819,12 +93819,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -93867,12 +93867,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -93959,12 +93959,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94007,12 +94007,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94055,12 +94055,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94147,12 +94147,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94195,12 +94195,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94287,12 +94287,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94379,12 +94379,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94427,12 +94427,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94475,12 +94475,12 @@
     "pr_message": "鮭・鯛・鯖の笹寿し、食材・製法にこだわり抜いたワンランク上の「金澤笹寿し Premium」、ミニサイズで6種類の具材が楽しめる駅限定「金沢笹寿し 小笹」など笹寿しをフルラインナップ。ほか、季節限定のお弁当を各種ご用意しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94523,12 +94523,12 @@
     "pr_message": "鮭、鯛、鯖の笹寿しに四季折々のお弁当をご用意しております。雨が降ったらキャンセルOKの「雨天中止キャンセル」サービスも実施中。運動会や屋外での行事におすすめです。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94781,16 +94781,16 @@
     "pr_message": "昔の茶屋街を改築した店内は、落ち着いた雰囲気です。スタッフがいれるお茶を、季節のお菓子とともに楽しんで下さい。ギャラリー・物販コーナーもございます。",
     "genres": [
       {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
+      },
+      {
         "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
         "genre": "食品"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": false,
@@ -94833,12 +94833,12 @@
     "pr_message": "献上加賀棒茶をはじめとする原料にこだわったお茶を取り揃えております。また、喫茶スペースでは、お菓子とセットにて、お茶をお召し上がりいただけます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -94969,12 +94969,12 @@
     "pr_message": "菓子工房西都KOGURAは季節感を大切にして、厳選した原材料でお菓子をひとつひとつ真心を込めて作っております。ケーキ、焼き菓子は常時20〜30種類取り揃えており、バースデーケーキ、焼き菓子のギフトなどのご注文も承っております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -95896,15 +95896,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
         "genre": "学習用品"
       },
       {
         "big_genre": "買う",
         "genre": "日用品"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
@@ -96201,11 +96201,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "ファミレス・ファストフード"
+        "genre": "和食・寿司"
       },
       {
         "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "ファミレス・ファストフード"
       }
     ],
     "is_baby_station": false,
@@ -96248,16 +96248,16 @@
     "pr_message": "里海館からは日本海が一望でき、夕暮れ時に、日本海に沈む夕日をパノラマで見るのがおススメです。地元の食材を使用した食事メニューや、季節でフレーバーが変わるソフトクリーム、里山館では産直コーナーもあります。",
     "genres": [
       {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
+      },
+      {
         "big_genre": "買う",
         "genre": "食品"
       },
       {
         "big_genre": "食べる",
         "genre": "ファミレス・ファストフード"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
       }
     ],
     "is_baby_station": true,
@@ -96485,11 +96485,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "中華・ラーメン"
+        "genre": "カレー"
       },
       {
         "big_genre": "食べる",
-        "genre": "カレー"
+        "genre": "中華・ラーメン"
       }
     ],
     "is_baby_station": false,
@@ -96752,12 +96752,12 @@
     "pr_message": "設立以来、多くの方にご利用頂き健康及び水泳をお伝えしてまいりました。プール施設での水泳指導及び体操室でのいろいろな体操が人気です。経験豊富なコーチが揃っていて、アットホームな暖かさでお迎えします。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -96800,12 +96800,12 @@
     "pr_message": "「楽しく泳ごう」をモットーに「親切」「丁寧」な指導でめきめき上達!子どもから大人までご家族揃って参加できるそんなクラブを目指します。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -96848,12 +96848,12 @@
     "pr_message": "水泳を習うなら楽しいが一番!上手になるのも一番!泳ぐことが気持ちよくて、プールに来るのがワクワクするお子様を預けるなら、安心して上達できる所を選んであげて下さい。それが金沢スイミングクラブです。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -96941,11 +96941,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "イタリアン・フレンチ"
       }
     ],
     "is_baby_station": false,
@@ -96989,15 +96989,7 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "中華・ラーメン"
-      },
-      {
-        "big_genre": "食べる",
-        "genre": "和食・寿司"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
@@ -97005,7 +96997,15 @@
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "中華・ラーメン"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "食べる",
+        "genre": "和食・寿司"
       }
     ],
     "is_baby_station": false,
@@ -97263,12 +97263,12 @@
     "pr_message": "世界初「豆型建築」書店、日本最大級の品揃えの書籍専門館です。タリーズも併設されておりゆっくと本を選ぶことができます。皆様のご来店を心よりお持ち致しております。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -97316,11 +97316,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       }
     ],
     "is_baby_station": true,
@@ -98815,12 +98815,12 @@
     "pr_message": "金沢勤労者プラザは、各種研修室、体育館、音楽室、料理実習室などの貸室を備えた施設です。また、教養、文化、スポーツ、職業訓練などの講座も開催しており、どなたでもご利用いただけます。",
     "genres": [
       {
-        "big_genre": "暮らす",
-        "genre": "健康"
-      },
-      {
         "big_genre": "育てる",
         "genre": "習い事"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "健康"
       }
     ],
     "is_baby_station": false,
@@ -98908,11 +98908,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
@@ -98959,12 +98959,12 @@
     "pr_message": "金沢国際ホテル内、パティスリー「マルメロ」。お子様が安心して口にできる素材選びに、気を使っています。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -99267,11 +99267,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "洋食・西洋料理"
       },
       {
         "big_genre": "食べる",
-        "genre": "洋食・西洋料理"
+        "genre": "イタリアン・フレンチ"
       }
     ],
     "is_baby_station": false,
@@ -100398,16 +100398,16 @@
     "pr_message": "2013年10月にタテマチでオープン、2016年11月より金沢市三小牛町(みつこうじまち)に移転営業。ママ目線で選んだベビー&キッズ雑貨やオリジナルおむつケーキなどのギフトが充実。また、ベビーマッサージや産後ヨガ教室も定期的に開催中。最新情報はFacebookページをご覧ください♪",
     "genres": [
       {
+        "big_genre": "買う",
+        "genre": "日用品"
+      },
+      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "買う",
         "genre": "衣類"
-      },
-      {
-        "big_genre": "買う",
-        "genre": "日用品"
       },
       {
         "big_genre": "買う",
@@ -101821,12 +101821,12 @@
     "pr_message": "当店では、家族連れで楽しくお食事または宿泊し、腹一杯海の幸を堪能していただくために、豊富なメニューを取り揃えてあります。口コミでお客様に来ていただける様に頑張っています。",
     "genres": [
       {
-        "big_genre": "遊ぶ",
-        "genre": "宿泊・温泉"
-      },
-      {
         "big_genre": "食べる",
         "genre": "和食・寿司"
+      },
+      {
+        "big_genre": "遊ぶ",
+        "genre": "宿泊・温泉"
       }
     ],
     "is_baby_station": false,
@@ -103141,15 +103141,15 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
-      },
-      {
-        "big_genre": "買う",
         "genre": "日用品"
       },
       {
         "big_genre": "買う",
         "genre": "衣類"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -104200,11 +104200,11 @@
     "genres": [
       {
         "big_genre": "暮らす",
-        "genre": "情報・通信"
+        "genre": "交通・燃料"
       },
       {
         "big_genre": "暮らす",
-        "genre": "交通・燃料"
+        "genre": "情報・通信"
       }
     ],
     "is_baby_station": false,
@@ -104551,11 +104551,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -104598,12 +104598,12 @@
     "pr_message": "スギヨファームでは能登のミネラル豊富な赤土から育てた野菜や果物、その農産物を使用したドレッシングやジャムの販売。店内では野菜のソフトクリームや無添加のジェラートなどを召し上がれます。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -105692,12 +105692,12 @@
     "pr_message": "兼六園で行列のできるお団子屋です。お団子の他にも四季折々の和菓子をご用意しております。お気軽にお立ち寄りください。",
     "genres": [
       {
-        "big_genre": "買う",
-        "genre": "食品"
-      },
-      {
         "big_genre": "食べる",
         "genre": "カフェ・スイーツ"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
@@ -106265,11 +106265,11 @@
     "genres": [
       {
         "big_genre": "食べる",
-        "genre": "イタリアン・フレンチ"
+        "genre": "カフェ・スイーツ"
       },
       {
         "big_genre": "食べる",
-        "genre": "カフェ・スイーツ"
+        "genre": "イタリアン・フレンチ"
       }
     ],
     "is_baby_station": false,
@@ -106313,11 +106313,11 @@
     "genres": [
       {
         "big_genre": "買う",
-        "genre": "学習用品"
+        "genre": "日用品"
       },
       {
         "big_genre": "買う",
-        "genre": "日用品"
+        "genre": "学習用品"
       }
     ],
     "is_baby_station": false,
@@ -109097,11 +109097,11 @@
       },
       {
         "big_genre": "買う",
-        "genre": "食品"
+        "genre": "衣類"
       },
       {
         "big_genre": "買う",
-        "genre": "衣類"
+        "genre": "食品"
       }
     ],
     "is_baby_station": false,
