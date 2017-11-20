@@ -1,4 +1,4 @@
-# prepass opendata
+# prepass opendata [![Build Status](https://travis-ci.org/kiesproject/prepass-opendata.svg?branch=master)](https://travis-ci.org/kiesproject/prepass-opendata)
 プレまっぷで使用するオープンデータリポジトリ
 
 ## LICENSE
