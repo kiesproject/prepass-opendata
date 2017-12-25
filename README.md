@@ -34,7 +34,6 @@
 |`is_zashiki`|boolean|座敷の有無|
 |`antiallergic_support`|String|小麦などのアレルギーサポートを行っている場合に入るフィールド|
 |`privileges`|privileges|特典内容のオブジェクト。詳細は[privileges](#privileges)に記載|
-|`last_update`|String|最終更新日|
 
 ### `location`
 店舗の位置情報のデータを格納するオブジェクト
