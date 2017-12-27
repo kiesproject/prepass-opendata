@@ -4936,7 +4936,7 @@
     "is_zashiki": false,
     "antiallergic_support": "",
     "privileges": {
-      "two_children": "",
+      "two_children": "ポイントカード → 通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス",
       "three_children": "ポイントカード → 通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス"
     }
   },
@@ -4991,7 +4991,7 @@
     "is_zashiki": false,
     "antiallergic_support": "",
     "privileges": {
-      "two_children": "",
+      "two_children": "ポイントカード→通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス",
       "three_children": "ポイントカード→通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス"
     }
   },
@@ -5046,7 +5046,7 @@
     "is_zashiki": false,
     "antiallergic_support": "",
     "privileges": {
-      "two_children": "",
+      "two_children": "ポイントカード → 通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス",
       "three_children": "ポイントカード → 通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス"
     }
   },
@@ -5101,7 +5101,7 @@
     "is_zashiki": false,
     "antiallergic_support": "",
     "privileges": {
-      "two_children": "",
+      "two_children": "ポイントカード → 通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス",
       "three_children": "ポイントカード → 通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス"
     }
   },
@@ -5156,7 +5156,7 @@
     "is_zashiki": false,
     "antiallergic_support": "",
     "privileges": {
-      "two_children": "",
+      "two_children": "ポイントカード→通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス",
       "three_children": "ポイントカード→通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス"
     }
   },
@@ -5199,7 +5199,7 @@
     "is_zashiki": false,
     "antiallergic_support": "",
     "privileges": {
-      "two_children": "",
+      "two_children": "ポイントカード → 通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス",
       "three_children": "ポイントカード → 通常ポイント(100円(税別):1ポイント)にもう1ポイントサービス"
     }
   },
@@ -63511,135 +63511,6 @@
     }
   },
   {
-    "company_id": 100975,
-    "shop_id": 1,
-    "shop_name": "SoftBank 御経塚",
-    "zip_code": "921-8064",
-    "address": "石川県金沢市八日市町4-283",
-    "building_address": "",
-    "location": {
-      "lat": 36.5478735,
-      "lon": 136.6064098
-    },
-    "tel": "076-269-0708",
-    "fax": "076-269-0045",
-    "url": "",
-    "open_time": "10:00〜20:00",
-    "close_time": "なし",
-    "pr_message": "明るくさわやかな接客でお客様の良い相談相手になれるようにがんばっています。たくさんのお客様のご来店をお待ちしております。",
-    "genres": [
-      {
-        "big_genre": "暮らす",
-        "genre": "情報・通信"
-      }
-    ],
-    "is_baby_station": false,
-    "is_feed_space": false,
-    "is_change_diaper_space": false,
-    "is_microwave_oven": false,
-    "can_buy_wet_tissues": false,
-    "is_boil_water": false,
-    "is_child_toilet": false,
-    "is_kids_corner": false,
-    "is_lent_stroller": false,
-    "is_child_privilege": false,
-    "is_child_menu": false,
-    "is_no_smoking_room": false,
-    "is_private_room": false,
-    "is_zashiki": false,
-    "antiallergic_support": "",
-    "privileges": {
-      "two_children": "",
-      "three_children": "新規加入1000円割引 機種変更500円割引"
-    }
-  },
-  {
-    "company_id": 100975,
-    "shop_id": 2,
-    "shop_name": "SoftBank 松任",
-    "zip_code": "924-0817",
-    "address": "石川県白山市幸明町285番地",
-    "building_address": "フェアモール松任ユーホーム内",
-    "location": {
-      "lat": 36.5151721,
-      "lon": 136.5784639
-    },
-    "tel": "076-274-7722",
-    "fax": "076-274-0106",
-    "url": "",
-    "open_time": "10:00〜20:00",
-    "close_time": "なし",
-    "pr_message": "アピタ松任と隣接しているのでお買い物のついでにお立寄ください。時間がかかる処理や待ち時間にお子様が飽きないようにアニメの放映を行っております。スタッフ一同笑顔をモットーに日々心掛け、お客様をお待ちしています。",
-    "genres": [
-      {
-        "big_genre": "暮らす",
-        "genre": "情報・通信"
-      }
-    ],
-    "is_baby_station": false,
-    "is_feed_space": false,
-    "is_change_diaper_space": false,
-    "is_microwave_oven": false,
-    "can_buy_wet_tissues": false,
-    "is_boil_water": false,
-    "is_child_toilet": false,
-    "is_kids_corner": false,
-    "is_lent_stroller": false,
-    "is_child_privilege": false,
-    "is_child_menu": false,
-    "is_no_smoking_room": false,
-    "is_private_room": false,
-    "is_zashiki": false,
-    "antiallergic_support": "",
-    "privileges": {
-      "two_children": "",
-      "three_children": "新規加入1000円割引 機種変更500円割引"
-    }
-  },
-  {
-    "company_id": 100975,
-    "shop_id": 3,
-    "shop_name": "SoftBank 津幡",
-    "zip_code": "929-0342",
-    "address": "石川県河北郡津幡町北中条5丁目94",
-    "building_address": "",
-    "location": {
-      "lat": 36.6620135,
-      "lon": 136.7282697
-    },
-    "tel": "076-289-0018",
-    "fax": "076-289-0866",
-    "url": "",
-    "open_time": "10:00〜20:00",
-    "close_time": "なし",
-    "pr_message": "当店では、スタッフ一同心から明るくお客様をおむかえし、広々とした店内でゆっくりと携帯を手にとってご覧いただけます。ご不明な点がございましたらお気軽にスタッフへ声をおかけください。",
-    "genres": [
-      {
-        "big_genre": "暮らす",
-        "genre": "情報・通信"
-      }
-    ],
-    "is_baby_station": false,
-    "is_feed_space": false,
-    "is_change_diaper_space": false,
-    "is_microwave_oven": false,
-    "can_buy_wet_tissues": false,
-    "is_boil_water": false,
-    "is_child_toilet": false,
-    "is_kids_corner": false,
-    "is_lent_stroller": false,
-    "is_child_privilege": false,
-    "is_child_menu": false,
-    "is_no_smoking_room": false,
-    "is_private_room": false,
-    "is_zashiki": false,
-    "antiallergic_support": "",
-    "privileges": {
-      "two_children": "",
-      "three_children": "新規加入1000円割引 機種変更500円割引"
-    }
-  },
-  {
     "company_id": 100976,
     "shop_id": 2,
     "shop_name": "北陸ミサワホーム ホームイング金沢店 ",
@@ -109730,7 +109601,7 @@
     "is_zashiki": false,
     "antiallergic_support": "",
     "privileges": {
-      "two_children": "",
+      "two_children": "・ご旅行代金総額10万円以上(税抜)で5000円引き(JTB商品のみ)                         \n・お子様来店時ジュース1つプレゼント\n",
       "three_children": "・ご旅行代金総額10万円以上(税抜)で5000円引き(JTB商品のみ)                         \n・お子様来店時ジュース1つプレゼント\n"
     }
   },
@@ -114079,7 +113950,7 @@
     },
     "tel": "076-239-3322",
     "fax": "",
-    "url": "http://www.uniformnishijima.co.jp/",
+    "url": "http://www.uniformnishijima.co.jp/copin-kana",
     "open_time": "10:00〜19:00",
     "close_time": "火曜日",
     "pr_message": "コパンでは小・中学生の制服専門店です。最高級品からリーズナブルなお品まで豊富に取り揃えております。アフターフォローも万全です。成長に伴うお直しは無料です。何でもご相談下さい。",
@@ -115178,6 +115049,57 @@
     }
   },
   {
+    "company_id": 888924,
+    "shop_id": 1,
+    "shop_name": "小松かがやき法律事務所",
+    "zip_code": "923-0919",
+    "address": "石川県小松市殿町2丁目18-7",
+    "building_address": "",
+    "location": {
+      "lat": 36.40891,
+      "lon": 136.4499679
+    },
+    "tel": "0761-24-2361",
+    "fax": "0761-24-6867",
+    "url": "http://www.komatsukagayaki-law.jp",
+    "open_time": "9:00〜17:30",
+    "close_time": "土・日・祝日 (その他休日:ホームページにてお知らせ http://www.komatsukagayaki-law.jp/news)",
+    "pr_message": "お子さんのことで何かお困りのことはありませんか?また、あなた自身のことでお困りの事はありませんか?親御さんの元気は、子どもの元気につながります。どんなささいな事でもお気軽にご相談下さい。\n弁護士川本藏石、川本樹(金沢弁護士会)",
+    "genres": [
+      {
+        "big_genre": "暮らす",
+        "genre": "保険"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "法律"
+      },
+      {
+        "big_genre": "暮らす",
+        "genre": "金融"
+      }
+    ],
+    "is_baby_station": false,
+    "is_feed_space": false,
+    "is_change_diaper_space": false,
+    "is_microwave_oven": false,
+    "can_buy_wet_tissues": false,
+    "is_boil_water": false,
+    "is_child_toilet": false,
+    "is_kids_corner": false,
+    "is_lent_stroller": false,
+    "is_child_privilege": false,
+    "is_child_menu": false,
+    "is_no_smoking_room": true,
+    "is_private_room": true,
+    "is_zashiki": false,
+    "antiallergic_support": "",
+    "privileges": {
+      "two_children": "初回法律相談料 30分無料\n※子どもの問題(いじめ・学校事故・交際相手とのトラブル等)だけでなく、交通事故・借金・家庭の問題(離婚・親権・養育費)等、各種相談受付中\n※権利保護保険(弁護士保険制度、弁護士費用特約)をご使用になる場合も、ご相談下さい",
+      "three_children": "初回法律相談料 30分無料\n※子どもの問題(いじめ・学校事故・交際相手とのトラブル等)だけでなく、交通事故・借金・家庭の問題(離婚・親権・養育費)等、各種相談受付中\n※権利保護保険(弁護士保険制度、弁護士費用特約)をご使用になる場合も、ご相談下さい"
+    }
+  },
+  {
     "company_id": 889352,
     "shop_id": 7,
     "shop_name": "COCO塾 インフォメーションセンター金沢",
@@ -115562,6 +115484,57 @@
     "privileges": {
       "two_children": "?COCO塾入会金5000円オフ、?COCO塾ジュニア(本部校、FC教室)入会金3000円オフ",
       "three_children": "?COCO塾入会金5000円オフ、?COCO塾ジュニア(本部校、FC教室)入会金3000円オフ"
+    }
+  },
+  {
+    "company_id": 890979,
+    "shop_id": 1,
+    "shop_name": "制服リユース リクル",
+    "zip_code": "920-0805",
+    "address": "石川県金沢市小金町14-8",
+    "building_address": "山下ビル",
+    "location": {
+      "lat": 36.5830726,
+      "lon": 136.67060879
+    },
+    "tel": "070-4132-4587",
+    "fax": "",
+    "url": "http://recle.boy.jp/",
+    "open_time": "10〜15時",
+    "close_time": "火・木・日・祝",
+    "pr_message": "石川県初の制服リユースショップです。\n1月10日(水)新店舗オープン! 制服や体操服、ランドセルなどの学用品を中心に買取り・販売をしております。金沢市・白山市・野々市市・津幡を中心に、幼稚園から高校までの制服を取り扱いしています。お気軽にお問い合わせくださいね!",
+    "genres": [
+      {
+        "big_genre": "買う",
+        "genre": "学習用品"
+      },
+      {
+        "big_genre": "育てる",
+        "genre": "習い事"
+      },
+      {
+        "big_genre": "買う",
+        "genre": "衣類"
+      }
+    ],
+    "is_baby_station": false,
+    "is_feed_space": false,
+    "is_change_diaper_space": false,
+    "is_microwave_oven": false,
+    "can_buy_wet_tissues": false,
+    "is_boil_water": false,
+    "is_child_toilet": false,
+    "is_kids_corner": false,
+    "is_lent_stroller": false,
+    "is_child_privilege": true,
+    "is_child_menu": false,
+    "is_no_smoking_room": false,
+    "is_private_room": false,
+    "is_zashiki": false,
+    "antiallergic_support": "",
+    "privileges": {
+      "two_children": "プレミアムパスポートをお会計時に提示でお子様への粗品プレゼント",
+      "three_children": "プレミアムパスポートをお会計時に提示でお子様への粗品プレゼント"
     }
   },
   {
