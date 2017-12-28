@@ -18,7 +18,7 @@ before_install:
   - eval `ssh-agent -s`
   - ssh-add ~/.ssh/deploy
 script:
-  - ./run.py opendata.json
+  - python run.py opendata.json
 after_success:
   - git config --global user.name "Deployment Bot"
   - git config --global user.email "deploy@example.com"
