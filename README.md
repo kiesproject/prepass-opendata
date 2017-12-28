@@ -1,6 +1,18 @@
 # prepass opendata [![Build Status](https://travis-ci.org/kiesproject/prepass-opendata.svg?branch=master)](https://travis-ci.org/kiesproject/prepass-opendata)
 プレまっぷで使用するオープンデータリポジトリ
 
+## 使い方
+
+下のURLを叩くとデータが入ったJSONが返ってくるのでOkHttpだったりAlamofireで使えます。
+
+- 最終更新日のみのデータ
+
+        https://raw.githubusercontent.com/kiesproject/prepass-opendata/master/last-update.json
+
+- お店のデータ
+
+        https://raw.githubusercontent.com/kiesproject/prepass-opendata/master/opendata.json
+
 ## データ構造
 ### 本体
 |要素|データ型|解説|
@@ -154,14 +166,25 @@ Prepassのジャンル構成には以下のリストを用いています。
     "privileges": {
       "two_children": "",
       "three_children": "ガソリン、軽油、灯油が店頭看板から−3円/L(ポンタカード併用、クレジッド、法人不可)\n洗車、コーティング、車内クリーニング、オイル交換などの商品が通常価格から10%OFF"
-    },
-    "last_update": "2017-11-27T18:43:53+0900"
+    }
   },
   # ...
 ]
 ```
 
 ## LICENSE
+## ソースコード
+```
+The MIT License (MIT)
+
+Copyright (c) 2017 KIES Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
 ### オープンデータ
 Copyright (c) 子育てにやさしい企業推進協議会
 
