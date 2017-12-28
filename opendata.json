@@ -9041,49 +9041,6 @@
     }
   },
   {
-    "company_id": 100121,
-    "shop_id": 1,
-    "shop_name": "ヘアー創作室 ヨシモト",
-    "zip_code": "921-8148",
-    "address": "石川県金沢市額新保2-260",
-    "building_address": "",
-    "location": {
-      "lat": 36.5181768,
-      "lon": 136.61559
-    },
-    "tel": "076-298-7448",
-    "fax": "076-298-2656",
-    "url": "http://yoshimoto.kitemi.net/",
-    "open_time": "9:00〜19:00",
-    "close_time": "毎週月曜日、第1月・火曜日、第3日・月曜日",
-    "pr_message": "ファミリーサロンで、赤ちゃんも抱っこしながらカットできます。お子様用の絵本、おもちゃも用意してあります。",
-    "genres": [
-      {
-        "big_genre": "暮らす",
-        "genre": "理美容"
-      }
-    ],
-    "is_baby_station": false,
-    "is_feed_space": false,
-    "is_change_diaper_space": false,
-    "is_microwave_oven": false,
-    "can_buy_wet_tissues": false,
-    "is_boil_water": false,
-    "is_child_toilet": false,
-    "is_kids_corner": false,
-    "is_lent_stroller": true,
-    "is_child_privilege": false,
-    "is_child_menu": false,
-    "is_no_smoking_room": false,
-    "is_private_room": false,
-    "is_zashiki": false,
-    "antiallergic_support": "",
-    "privileges": {
-      "two_children": "",
-      "three_children": "技術料5%引き"
-    }
-  },
-  {
     "company_id": 100125,
     "shop_id": 1,
     "shop_name": "安新",
@@ -115502,7 +115459,7 @@
     "url": "http://recle.boy.jp/",
     "open_time": "10〜15時",
     "close_time": "火・木・日・祝",
-    "pr_message": "石川県初の制服リユースショップです。\n1月10日(水)新店舗オープン! 制服や体操服、ランドセルなどの学用品を中心に買取り・販売をしております。金沢市・白山市・野々市市・津幡を中心に、幼稚園から高校までの制服を取り扱いしています。お気軽にお問い合わせくださいね!",
+    "pr_message": "2018年1月10日(水)新店舗オープン! 石川県初の制服リユースショップです。制服や体操服、ランドセルなどの学用品を中心に買取り・販売をしております。金沢市・白山市・野々市市・津幡を中心に、幼稚園から高校までの制服を取り扱いしています。お気軽にお問い合わせくださいね!",
     "genres": [
       {
         "big_genre": "買う",
