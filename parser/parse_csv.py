@@ -68,7 +68,10 @@ def load_prepass_data(base_url):
     data_list = []
     for row in prepass:
         data = OrderedDict()
-        data["company_id"] = int(row["企業ID"].replace("co", ""))
+        try:
+            data["company_id"] = int(row["企業ID"].replace("co", ""))
+        except ValueError:
+            continue
 
         # きたむら住宅工房...データにダブルクォート入れたことは許さんからな！！！
         if data["company_id"] == 101463:
