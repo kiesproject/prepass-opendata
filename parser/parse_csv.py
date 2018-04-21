@@ -37,20 +37,27 @@ def load_data(url, exclude):
 
 
 def generate_genres(genre_list):
-    if 'その他' in genre_list:
-        genre_list.remove('その他')
-
     genres = []
-    for i in genre_list:
-        for big in genre:
-            if i in genre[big]:
-                genres.append(OrderedDict(
-                    {
+
+    # その他のみだったらジャンルにその他を追加
+    if 'その他' in genre_list and len(genre_list) == 1:
+        genres.append(OrderedDict({
+            "big_genre": "その他",
+            "genre": "その他"
+        }))
+    else:
+        if 'その他' in genre_list:
+            genre_list.remove('その他')
+
+        for i in genre_list:
+            for big in genre:
+                if i in genre[big]:
+                    genres.append(OrderedDict({
                         "big_genre": big,
                         "genre": i
-                    }
-                ))
-                break
+                    }))
+                    break
+
     return sorted(genres, key=lambda big_genre: big_genre['genre'])
 
 
